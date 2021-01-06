@@ -1,1 +1,16 @@
 NKOSI LETHIWE
+
+9 December
+We were grouped and given a task to create a system to present on Monday, me and my team members, we decided to create an online shopping cart system for clothes.
+10 December
+The BAs did their work and us developers we did research on the new technologies tht were introduced to us.
+11 December 
+I did APIs fr the backend part of the login and registration and created the database for the users information and clothing items.
+14 December
+We presented what we had done so far and got feedback from our head developers and tester. We were struggling wth connecting the APIs to angular.
+17 December
+Did research on connecting APIs to angular and one of our team members made a breakthrough and we connected the APIs to angular.
+20 December 
+I did more research on node js and started wth angular and postman.
+04 December
+I started with agile42 lessons.
