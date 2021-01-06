@@ -1,1 +1,17 @@
-alex the programmer
+Ernest Matenjwa report
+
+week 1
+-My first day at ICEP
+-We where introduced to ICEP.
+-Zaneke Mathebela and Percy Mohale shared their experience about industry
+-I had an online meeting where I prepared myself for the upcoming presentation.
+-Mr Nyambeni gave us a task as group to create a system
+week 2
+-Second week working at ICEP.
+-Mr Nyambeni introduced us to git, where we had to clone a file from his repo to our computers then add our names then push it back to his repo.
+-We closed at work
+Week 3
+-I was enjoying my holidays
+week 4
+-Was learning git and it showed me flames
+-we got a task to right a report and push it to git 
