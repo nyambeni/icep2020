@@ -1,1 +1,1 @@
-Jali 
+Jali Our first week at ICEP I and my team were developing a web application for Kota ordering, I was working on the back-end to create API's and the server. i managed to create API's but couldn't connect them to the front en, during the holidays i tried to research on how to do log in API's and how to connect to front end, and i m currently learning about tokens and how to connect the front end and back-end.
