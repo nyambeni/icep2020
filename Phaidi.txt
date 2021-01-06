@@ -1,1 +1,12 @@
 Phaidi Mathabatha
+
+Before we closed I was working on Staff log in, Patient info and Medical info back-end pages for the 
+Patient Record System.
+
+During the holidays I worked on or rather practiced Node.js a little bit, there is too much to know 
+with little time to go about it.
+
+I am currently busy with Angular, apart from my part on the group, it is third on the top three, it is 
+definitely on my need-to-know list.
+
+
