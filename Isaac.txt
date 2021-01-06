@@ -1,1 +1,11 @@
 Isaac Kagiso Malebana
+
+
+Before: I was working on the front-end creating login and register pages.
+I was trying to connect the front-end and back-end and I eventually
+managed.
+
+During holidays: I was working on the APIs testing them making sure, they work as intended.
+
+Currently: I'm creating services for the REST API and trying to 
+share data across components.
