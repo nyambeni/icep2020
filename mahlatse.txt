@@ -2,7 +2,7 @@ Mahlatse Nkwana
 
 09-December-2020
 On the 9th of december we were group and i and my group proposed to develop an online
-shopping system. And we were instructed to use Node JS and Angular.
+shopping system. after propposing the system we were instructed to use Node JS and Angular.
 
 10th-11th december-2020 
 I started doing a research about the technology that we have to use to develop an online 
@@ -19,6 +19,7 @@ and we were introduced to git.
 
 december (holidays )
 I continued learning more about Node JS ,express.
+
  
 
 
