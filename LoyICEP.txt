@@ -1,1 +1,21 @@
 NETSHIOZWI LOY
+
+Report
+
+What I did before closing for the holidays:
+The first week of ICEP from the 7th of December 2020
+
+I met our facilitators and was introduced to ICEP and what is happening in ICEP. I met speakers (Ms Zanele and Mr Percy) who gave us their experience in ICEP and their 
+current experience at the industry for both analysts and developers and, we also met Mr Simon and Mr Mash. We were introduced to the type tools we will be using in 
+ICEP. We placed in groups and we were told to come up with a task and we had to propose the task we were going to do to familiarise ourselves with the tools.
+
+The Second week of ICEP from the 14th of December 2020
+
+In the group everyone in had to choose what they were going to do, and I chose to be a front end developer and I was using Angular to create and style the application 
+we were doing, we presented the application and for the rest of the week we were fixing errors and trying to connect the front end and the back end.
+
+What I did during the holidays:
+
+I made changes on the application we were doing as a group. And personally, I was designing and currently I am trying to better my Angular programming skills by 
+creating an online portfolio of my work.
+
