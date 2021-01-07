@@ -1,1 +1,19 @@
 TEBELLO MAILA
+
+09-12-2020
+We as a group proposed our project to develop an online-based kota menu order application to our seniors. Discussed some of the key requirements that should be included in our documentation for the project with our business analysts members. As we had drafted rough sketches concerning data schema and user requirements. We assigned work to group member to do.
+
+10-12-2020 - 13-12-2020
+I researched more about the technology stack (AngularJS and NodeJS) used for our online application. I started working on the application as whole. I created the repository to upload our as we worked remotely for submission for each part done. Later, we shared our individual work on our WhatsApp group and compared our progress work with other developers. Also, referred to business analyst members to update changes in the the documentations, that is, the use case, ERD and DFDs were aligned with application.
+
+14-12-2020
+We met as a team to compile the final work done for presentation. I was fixing the landing page for the menu creation. We presented our project so far done and received feedback our senior software developers.
+
+15-12-2020
+I started reworking through landing page using angular to create the kota menu. I conducted a bit research about Angular. 
+
+16-12-2020-20-12-2020
+I did research on the MERN stack by reading recommended books to gain an understanding of the overview and application to relate our application we were building. I watched tutorials on YouTube on how to build a project and creating sign up and sign in pages, routing through pages, creating server with express. I created mySQL database using the ERD made by our business analyst. I tested some of the code shared on git by other developers.
+
+02-01-2021-05-01-2021
+I started with Agile42 lessons. I have build a basic book cart application using angular to relate to our online application for practice.
