@@ -12,7 +12,7 @@ ICEP. We placed in groups and we were told to come up with a task and we had to 
 The Second week of ICEP from the 14th of December 2020
 
 In the group everyone in had to choose what they were going to do, and I chose to be a front end developer and I was using Angular to create and style the application 
-we were doing, we presented the application and for the rest of the week we were fixing errors and trying to connect the front end and the back end.
+we were doing, we presented the application and for the rest of the week we were fixing errors and trying to connect the front end and the back end and the was progress.
 
 What I did during the holidays:
 
