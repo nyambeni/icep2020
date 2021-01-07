@@ -6,15 +6,14 @@ shopping system. And we were instructed to use Node JS and Angular.
 
 10th-11th december-2020 
 I started doing a research about the technology that we have to use to develop an online 
-shopping system.And started working on the checkout page.
+shopping system.And I started working on the checkout page.
 
 14 december-2020
 it was our first presentation of the shopping cart system and my group and i had 
 to present what we had done.And our system was not yet completed
  
 15-17 december-2020
-i did more research on express and also helping my team members on creating the
-api for logging and registration as we were focusing on the backend part and also
+i did more research on express and also creating the api for logging and registration of the system as we were focusing on the backend part and also
 we where trying to connect the back end with the front end.
 and we were introduced to git.
 
