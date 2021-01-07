@@ -16,6 +16,6 @@ we were doing, we presented the application and for the rest of the week we were
 
 What I did during the holidays:
 
-I made changes on the application we were doing as a group. And personally, I was designing and currently I am trying to better my Angular programming skills by 
-creating an online portfolio of my work.
+I made changes on the application we were doing as a group. And personally I was designing posters, music cover art and a logo and 
+currently I am trying to better my Angular programming skills by creating an online portfolio of my work.
 
