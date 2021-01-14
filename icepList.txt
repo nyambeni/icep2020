@@ -1,1 +1,13 @@
 NYAMBENI MPHO 
+
+SUNDAY 27 january 2021 - THURSDAY 31 january 2021
+
+i was working on the backend where i had to develop an api to allocate marks,
+it was challenging byt with the help of 2pac shakur i did it.
+it took 4 days and the difficult part was injecting scripts in the DB
+
+FRIDAY 1 FEB
+I TESTED THE API USING POSTMAN AND IT WORKED FINE.
+I DIDNT FACE ANY CHALLENGE
+
+
