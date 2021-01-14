@@ -1,1 +1,10 @@
 Nduduzo Ngobese
+
+09 December 2020, We were assgined to groups , and we decided to build a Tutoring system for students, and we assigned each other to different tasks.
+10 December 2020, I started with research on how to use the new web app technologies that we suppose to use for the system, and we met up as frontend developers , we started with the front end and created two pages the Home page and registration.
+11 December 2020, I was working at home , trying to fix the errors we encountered the day before but failed to do so.
+14 December 2020 , I finished developing everything on the front end part that i had to do, created the Login component and linking all the web pages we have but we could not connect it to the backend. We then prepared for the presentation that we going to have later that day, and we presented the work we had with our BA team members.
+15 December 2020, I was fixing mistakes I made on our front end , that were mentioned by our leaders, and we started with the backend and we managed to complete the API and designd a database for our system.
+17 December 2020, As a group of developers we coming up with ideas on how to connect the backend with the front end but we could not get anything.
+
+currently, I Started with research on how to connect the backend and frontend , Our Team has been strugling with the connection part.
