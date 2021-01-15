@@ -1,13 +1,15 @@
-NETSHIOZWI LOY
+Netshiozwi Loy
 
-Report
+Weekly Report
 
 What I did before closing for the holidays:
 The first week of ICEP from the 7th of December 2020
 
-I met our facilitators and was introduced to ICEP and what is happening in ICEP. I met speakers (Ms Zanele and Mr Percy) who gave us their experience in ICEP and their 
-current experience at the industry for both analysts and developers and, we also met Mr Simon and Mr Mash. We were introduced to the type tools we will be using in 
-ICEP. We placed in groups and we were told to come up with a task and we had to propose the task we were going to do to familiarise ourselves with the tools.
+•	I met our facilitators and was introduced to ICEP and what is happening in ICEP. 
+•	I met speakers (Ms Zanele and Mr Percy) who gave us their experience in ICEP and their current experience at the industry for both analysts and developers and,
+	we also met Mr Simon and Mr Mash. 
+•	We were introduced to the type tools we will be using in ICEP. 
+•	We placed in groups and we were told to come up with a task and we had to propose the task we were going to do to familiarise ourselves with the tools.
 
 The Second week of ICEP from the 14th of December 2020
 
@@ -18,4 +20,23 @@ What I did during the holidays:
 
 I made changes on the application we were doing as a group. And personally I was designing posters, music cover art and a logo and 
 currently I am trying to better my Angular programming skills by creating an online portfolio of my work.
+
+Week from 11 January to 15 January 2021 
+11 January 2021
+•	My group and I held a meeting on zoom discussing our way forward with the task and determining what is left to be done.
+
+12 January 2021
+•	I went through the task and the same day I did some research on front-end development to improve my front-end skills.
+
+13 January 2021
+•	As a group we held our daily stand-up meeting in the morning, everyone in the group were assigned tasks to do according to what was left to be done.
+•	My task was to work on the adding to cart and the checkout page since we were doing a shopping-cart application and we were given time until Friday to finish.
+•	So, for that day I was working on the increments of values when clicking on an item.
+
+14 January 2021
+•	As a group we held our daily stand-up meeting in the morning, the scrum master was checking how far everyone is with their tasks.
+•	On that day I was working on the checkout page.
+
+15 January 2021
+•	I will be proceeding with the checkout page, after our daily stand-up.
 
