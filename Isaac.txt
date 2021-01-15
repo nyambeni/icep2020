@@ -9,3 +9,12 @@ During holidays: I was working on the APIs testing them making sure, they work a
 
 Currently: I'm creating services for the REST API and trying to 
 share data across components.
+
+4 - 8 Jan
+I went through the system with the team and reported changes to be made.
+I had to modify API and test them again. As I was getting data from 
+the API I realise had to create sessions on the front-end and token.
+
+10 -15 Jan
+I went on learning about sessions and token. They are still giving
+me hard time but I think I will manage to finish them over the weekends.
