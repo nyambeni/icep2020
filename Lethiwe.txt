@@ -14,3 +14,10 @@ Did research on connecting APIs to angular and one of our team members made a br
 I did more research on node js and started wth angular and postman.
 04 December
 I started with agile42 lessons.
+
+
+11 January - 15 January 2021
+This week i was connecting the login API to angular.
+I implemmented the jwt tokens for user authentication and pushed to git.
+I completed my agile42 lessons.
+Registered for AWS Educate.
