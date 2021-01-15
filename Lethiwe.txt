@@ -17,7 +17,9 @@ I started with agile42 lessons.
 
 
 11 January - 15 January 2021
+My team and i, we had a zoom meeting to talk about a way foward, assigning tasks and updates on how far are we with our work.
 This week i was connecting the login API to angular.
 I implemmented the jwt tokens for user authentication and pushed to git.
+We been having daily standup meeting evey morning at 11 to discuss our tasks for the day.
 I completed my agile42 lessons.
 Registered for AWS Educate.
