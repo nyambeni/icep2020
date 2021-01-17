@@ -20,8 +20,19 @@ and we were introduced to git.
 december (holidays )
 I continued learning more about Node JS ,express.
 
- 
+04th-7th January-2021
+on the 4th i have  started with an agile24 course which i was busy with it until the 7th 
+doing a register api for practice purpose .
 
+11th -17th January 2021
+I and my group held a meeting on zoom duscussing our way forward which we decided that we
+should be focusing on the login and register api.however i did research about the session 
+and cookie parser for the system.
 
+on the 12th January then we decided to have a daily standup during daily standup we decided to split the system in different task i was given a task to create
+an admin api. 
 
+13th we held a daily standup  and the scrum master wanted a progress report on how far we are with
+the task .
 
+15th january i continued with agile24 course and completed the course on the 17th of january 
