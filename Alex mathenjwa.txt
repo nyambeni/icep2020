@@ -1,17 +1,26 @@
-Ernest Matenjwa report
+Personal Report of Ernest Matenjwa
 
-week 1
--My first day at ICEP
--We where introduced to ICEP.
--Zaneke Mathebela and Percy Mohale shared their experience about industry
--I had an online meeting where I prepared myself for the upcoming presentation.
--Mr Nyambeni gave us a task as group to create a system
-week 2
--Second week working at ICEP.
--Mr Nyambeni introduced us to git, where we had to clone a file from his repo to our computers then add our names then push it back to his repo.
--We closed at work
-Week 3
--I was enjoying my holidays
-week 4
--Was learning git and it showed me flames
--we got a task to right a report and push it to git 
+WEEK 1(07/12/2020 – 11/12/2020)
+-	My first day at ICEP
+-	Attended the ICEP induction.
+-	Zaneke Mathebela and Percy Mohale shared their experience about industry.
+-	We marked the register, and we were added to ICEP WHATSAPP group.
+-	Mr. Calvin were introduced to SCRUM and Agile.
+-	We were introduced to ICEP technologies (Trello, Git, Angular, Express, Postman, Node, ionic etc.
+-	Mr. Nyambeni grouped us to make a team to develop a system.
+-	Me and my team came with an idea to develop a tutor system that will give online help to student by providing learning material online.
+-	My team chose me to be responsible for backend development, it was not easy because everything was new.
+-	Stated developing the backend by creating the APIs but I could not win.
+WEEK 2(14/12/2020 – 18/12/2020)
+-	We had our first presentation.
+-	I could not present the backend because my code was not running, luckily our front was complete, so the presentation was not bad.
+-	Downloaded videos on YOUTUBE to help with the backend code.
+-	Mr. Nyambeni and MR. KG were also available to provide extra help.
+-	I manage to run my code and I tested it to postman it was working fine, the problem was connecting it our frontend system.
+-	We managed to read data from the MySQL database to the fronted by the help of Mr. KG.
+-	Mr. Nyambeni introduced us to Git where we had to clone a file from his repo and add our own files the push them back.
+-	Closing at ICEP.
+
+WEEK 3 and 4(21/12/2020 – 08/01/2021)
+-	I was enjoying my holidays.
+-	Learn git.
