@@ -24,3 +24,14 @@ WEEK 2(14/12/2020 – 18/12/2020)
 WEEK 3 and 4(21/12/2020 – 08/01/2021)
 -	I was enjoying my holidays.
 -	Learn git.
+
+WEEK 5(11/01/2021 – 15/01/2021)
+-	We stated working.
+-	We a presentation on Friday.
+-	I had to start trying to understand Angular since I was busy with Node last year.
+-	I could not connect the two.
+-	The presentation was postponed.
+-	Forgot to push my personal report to git.
+
+WEEK 5(18/01/2021 – 22/01/2021)
+-	I have started modifying my backend APIs by trying to add verification of the form.
