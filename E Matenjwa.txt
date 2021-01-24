@@ -32,6 +32,18 @@ WEEK 5(11/01/2021 – 15/01/2021)
 -	I could not connect the two.
 -	The presentation was postponed.
 -	Forgot to push my personal report to git.
+-	Started with daily standup. 
 
-WEEK 5(18/01/2021 – 22/01/2021)
+WEEK 6(18/01/2021 – 22/01/2021)
 -	I have started modifying my backend APIs by trying to add verification of the form.
+-	Had challenges with the frontend it was not running in my machine. I had to recreate a new angular project and copy some of the files to it.
+-	Modified the frontend.
+-	On Wednesday I got a call from Mr. Moutlwatse telling me that I am a selected candidate. So, I had to come back to Soshanguve to attend an interview.
+-	Thursday, I packed all my staff I went straight to Soshanguve.
+-	Friday, I attended the interview, and it was not bad at all. Immediately after the interview my team was already on an online presentation presenting our tutor system. 
+-	Created a new database.
+-	Attended the daily standup.
+-	Managed to run the GET API in our app.
+-	starteda new task posting data from form to database.
+ 
+
