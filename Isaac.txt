@@ -18,3 +18,10 @@ the API I realise had to create sessions on the front-end and token.
 10 -15 Jan
 I went on learning about sessions and token. They are still giving
 me hard time but I think I will manage to finish them over the weekends.
+
+
+18 - 22 Jan
+I created validation for the login and register, I did routing authentications
+which is basically giving access to pages when rendering and worked on http intercepters.
+
+
