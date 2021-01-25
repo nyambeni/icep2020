@@ -23,3 +23,10 @@ I implemmented the jwt tokens for user authentication and pushed to git.
 We been having daily standup meeting evey morning at 11 to discuss our tasks for the day.
 I completed my agile42 lessons.
 Registered for AWS Educate.
+
+18 January - 25 January
+With the help of Kg, wwe connected the Login API to Angular.
+Updated
+Started with Updating user Profile backend API.
+Am currently doing API to display users Information on the profile page.
+
