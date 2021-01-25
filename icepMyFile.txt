@@ -1,9 +1,0 @@
-THOLINHLANHLA HLOPHE 
-
-Before we closed, me and my team proposed to develop an online shopping system with Node JS and Angular. 
-Firstly, I started familiarizing myself with Angular and creating a profile, history, and checkout pages. 
-I decided to learn Node JS as well so that I can code backed to that pages. During this period, 
-I can say it was more learning for me because I also master the basics of git and GitHub.
- 
-After closing I continue learning Node JS and Angular using tutorials videos on YouTube and I found it more 
-interesting (21 Dec – 31 Dec). Currently I am improving the system by coding checkout functionality. 
