@@ -1,1 +1,14 @@
 Moloto Hope
+Hope Moloto.
+
+Before we closed, i created a new page that worked with the backend
+to display the data from the database, where the admin can see the 
+registered students.
+
+During the holidays i did not do anything since i knew that i had 
+failed one module which meant i was no longer part of ICEP.
+
+Since the above mentioned matter has been cleared for me yesterday,
+today i have been working on finding a way to collect data from the form
+and store it in the database because the only data we can read now ,is 
+the one we manually entered in the database myphp.
