@@ -1,4 +1,4 @@
-Mahlatse Nkwana
+Mahlatse Sydney Nkwana
 
 09-December-2020
 On the 9th of december we were group and i and my group proposed to develop an online
@@ -12,6 +12,7 @@ shopping system.And I started working on the checkout page.
 it was our first presentation of the shopping cart system and my group and i had 
 to present what we had done.And our system was not yet completed
  
+
 15-17 december-2020
 i did more research on express and also creating the api for logging and registration of the system as we were focusing on the backend part and also
 we where trying to connect the back end with the front end.
@@ -36,3 +37,20 @@ an admin api.
 the task .
 
 15th january i continued with agile24 course and completed the course on the 17th of january 
+
+18-22 January 2021
+well i have managed to create the crud amin api.
+i have manage to view list of registered customers from the data base using the angular through the
+admin api.
+challenges that i have is having to delete the user account from the database from angular .
+and also searching for user. 
+
+25-29 january 2021
+
+25 january -2021
+Today we were doing introduced to sprint backlog and retrospective in our groups
+which i was told to focus on the back end part. 
+26-january -2021 
+
+
+
