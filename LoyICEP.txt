@@ -40,3 +40,23 @@ Week from 11 January to 15 January 2021
 15 January 2021
 •	I will be proceeding with the checkout page, after our daily stand-up.
 
+
+Week from 18 January to 22 January 2021 
+
+18 January 2021
+•	My group and I held our daily stand-up.
+•	I was able to view the selected item on the Checkout page accordingly.
+19 January 2021
+•	My group and I held our daily stand-up.
+•	I was able to delete an item that the customer wants to remove from the selected items.
+•	And I was able to view the total price and decrease it if an item was deleted.
+20 January 2021
+•	My group and I held our daily stand-up.
+•	I included and designed a billing form for the customer to make his or he payments when they are done selecting and are pleased with the items they selected.
+21 January 2021
+•	My group and I held our daily stand-up.
+•	I made the search part on the landing page to search for items available or sold out.
+22 January 2021
+•	We presented the progress of our system on how far we are.
+
+
