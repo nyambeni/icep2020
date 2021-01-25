@@ -9,4 +9,16 @@ with little time to go about it.
 I am currently busy with Angular, apart from my part on the group, it is third on the top three, it is 
 definitely on my need-to-know list.
 
+25 Jan 2021
+
+I have managed to cover the basics of angular initializing, how to create components, services, how 
+angular interacts.
+
+First thing when we restarted working on the Patient Record system, i was tasked to create an API for 
+medical record, but my progress was without luck.
+
+I am currently busy learning the procedures of an API, basically how to create an API, so far, i managed
+to get "cannot POST" error, work in progress.
+
+
 
