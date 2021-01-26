@@ -1,1 +1,48 @@
 Thats my name
+
+
+Before we go for recess I was starting, I decided to learn Angular, to desingning some client
+pages, I created some few page on the 15th of December it was before I knew git, I came with
+on my USB I presented them to my team, they were inpressed with what I did, but that time I was
+struggling with navigation, that was my home work to figure it out, but I decided to jump into
+back-end on the 16th I started to learn node js I was struggling to connect node js to database.
+
+During my recess I was still leaning funally I was able to connect Node to Mysql, also knew hot
+to insert, retrieve, update, and to delete data to or from database. to me a while to be able to
+connect front-end to back-end.
+
+07/01/2021
+I was writting agile42 assessment, I did not complete it due to network problem, probably I will
+done with it tomorrow.
+
+08/01/2021
+I continued with the assessment and I am done with it, I got certificate of it.
+
+13/01/2021
+I am done with a login page, I am starting with navigation.
+
+14/01/2021
+Apparently I am not done yet with the login since I did not intergrate it with back-end, 
+so I had to go back to intagrate them, and stop with navigation, so I decided to take one task
+at a time.
+
+15/01/2021
+Could not complete the login page, we had a network issues, we could not colaborate on git,
+since BA's provided us with ERD then I design the database from the ERD.
+
+18/01/2021
+Now I am done with Login only the validations left, now I am moving to Registration page
+
+19/01/2021
+Also I am done with Registration page from back-end to front-end but also no validations,
+and they gave me another task to design another database.
+ 
+20/01/2021
+Done with database I shared it on Slack and I also managed to navigate through those pages
+
+21/01/2021
+I included the valiadtion on those pages I was working on both Login and Registration pages
+
+22/01/2021
+Today we presented our system unfortunatly they did not focus on the pages that I created, 
+they focused on the function on the system.
