@@ -24,4 +24,8 @@ me hard time but I think I will manage to finish them over the weekends.
 I created validation for the login and register, I did routing authentications
 which is basically giving access to pages when rendering and worked on http intercepters.
 
+25 - 29 Jan 
+I created the admin UI and added the functionality to read and delete customer information.
+I also created update customer profile but is not working as well as i want it to work.
+
 
