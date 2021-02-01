@@ -39,7 +39,7 @@ the task .
 15th january i continued with agile24 course and completed the course on the 17th of january 
 
 18-22 January 2021
-well i have managed to create the crud amin api.
+well i have managed to create the crud admin api.
 i have manage to view list of registered customers from the data base using the angular through the
 admin api.
 challenges that i have is having to delete the user account from the database from angular .
@@ -47,10 +47,15 @@ and also searching for user.
 
 25-29 january 2021
 
-25 january -2021
-Today we were doing introduced to sprint backlog and retrospective in our groups
-which i was told to focus on the back end part. 
-26-january -2021 
+25 january -2021  we were introduced to sprint backlog and retrospective in our groups
+which i was told to focus on the back end part.
+i created the registter api and managed to encrypt the user password.
+and also the login api for admin and the registered user.
+what was challenging was to read the password entered by the user and the encrypted password from 
+from the database.
+i have managed to make it work.
+
+01-05 february 2021
 
 
 
