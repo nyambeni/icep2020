@@ -1,3 +1,6 @@
 Jali Our first week at ICEP I and my team were developing a web application for Kota ordering, I was working on the back-end to create API's and the server. i managed to create API's but couldn't connect them to the front en, during the holidays i tried to research on how to do log in API's and how to connect to front end, and i m currently learning about tokens and how to connect the front end and back-end.
 11/01/2020 -- 15/01/2021, Managed to do an API for Ordering in our system and it was working perfect, then by friday i started an API for Menu and i had an issie with the image uploading section, i did not understand hotw it works and wat is reallly needed so i finished the week stuck on the uploading part.
 18/01/2021 - 22/01/2021 This week I was supposed to do the Menu API i which i jumped and did the login and registration API I finished and tested them if they working and they were working, the only thing i didnot do was to encrypt the password, thats what i will do on monday of the coming week (25/01/2021).
+
+25/01/2021 - 29/01/2021 This week I was still working on updating the API for logging in and registration and i had to work with the the structure so i changed the structure to the one on github.
+
