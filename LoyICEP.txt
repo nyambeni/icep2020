@@ -59,4 +59,23 @@ Week from 18 January to 22 January 2021
 22 January 2021
 •	We presented the progress of our system on how far we are.
 
+Week from 25 January to 29 January 2021 
+25 January 2021
+•	My group and I joined a sprint backlog, and KB showed us how to work around Trello.
+•	Working on the checkout page, making few adjustments.
+26 January 2021
+•	My group and I held our daily stand-up.
+•	Edited the billing form on the checkout page.
+27 January 2021
+•	My group and I held our daily stand-up.
+•	Validated the billing form in the checkout page and tested it.
+28 January 2021
+•	My group and I held our daily stand-up.
+•	Tested the system to see if it was ready for presentation and to see if things work accordingly.
+29 January 2021 
+•	My group and I held our daily stand-up and prepared for the presentation.
+•	We presented the progress of our system on how far we are.
+
+
+
 
