@@ -1,2 +1,6 @@
 attended interview
-got 
+got assigned to my team
+got introduced to my team project (patient record)
+got assigned to my task
+my task is to work on backend of patient appointment view
+i learnerd the NODE.JS following youtube tutorials
