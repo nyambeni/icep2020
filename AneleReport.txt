@@ -1,0 +1,2 @@
+Today I finally managed to push my work. The database is finished, the connection to the database with the app.js is also done.
+Now I need to move the code for registration to the register.js page as well as the code for medical record to the doctor.js page
