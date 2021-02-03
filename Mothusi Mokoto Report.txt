@@ -1,0 +1,82 @@
+Mothusi Mokoto
+
+Weekly Report
+
+What I did before closing for the holidays:
+The first week of ICEP from the 7th of December 2020
+
+•	I met our facilitators and was introduced to ICEP and what is happening in ICEP. 
+•	I met speakers (Ms Zanele and Mr Percy) who gave us their experience in ICEP and their current experience 
+	at the industry for both analysts and developers and,
+	we also met Mr Simon and Mr Mash. 
+•	We were introduced to the type tools we will be using in ICEP. 
+•	We placed in groups and we were told to come up with a task and we had to propose the task we were going to 
+	do to familiarise ourselves with the tools.
+
+The Second week of ICEP from the 14th of December 2020
+14 December 2020
+•	I was working on the component that I was assigned, I had to pull the recent work on github and link my component
+	so it coould work with the system.
+15 December 2020
+•	I was working with the back-end group to restructure the system components and the architecture of the whole system.
+17 December 2020
+•	I was having more errors on the component, since me and the front-end group had few re-dos to accommodate the the 
+	back-end group.
+
+Week from 11 January to 15 January 2021 
+14 January 2021
+•	As a development team we were struggling with the APIs and SQL connections, so I had to find out how to make use
+	of the API and the connections between Back-end, SQL and front-end.
+
+15 January 2021
+•	I was preparing for our first presentation of our system, and put everything we had together. We ended not 
+	presenting.
+•	I researched on front-end development to improve my front-end skills, especially angular.
+
+Week from 18 January to 22 January 2021 
+
+18 January 2021
+•	We held our daily stand-up.
+•	Presented the progress of our system to the scrum master
+19 January 2021
+•	We held our daily stand-up.
+•	I managed to do the dashboard for the admin, where the admin view the registered student for tutoring.
+•	I researched more on API and NodeJS because the back-end was giving us problems.
+20 January 2021
+•	I included and designed a form with a member of the group
+21 January 2021
+•	We were preparing for the presentation of the system.
+•	There were few other components that had to be implemented so we worked on them for the presentation to work
+	properly.
+22 January 2021
+•	We presented the progress of our system on how far we are.
+
+Week from 25 January to 29 January 2021 
+25 January 2021
+•	We joined a sprint backlog.
+•	We fixed alot of problems that had to do with both team back-end and front-end.
+•	We held our daily stand-up.
+26 January 2021
+•	We held our daily stand-up.
+•	We discussed what is still to be doing with the scrum.
+27 January 2021
+•	We held our daily stand-up.
+•	There was another restructuring of the system so I added a component as we discussed.
+28 January 2021
+•	We held our daily stand-up.
+•	I coded another component and linked it with the student page. I worked on it with a member.
+
+Week from 01 February to 5 February 2021
+01 February 2020
+•	I worked with member of the front to customize a few thing on the page, like adding buttons and changing them
+•	We add a button on the admin page to delete the students.
+02 February 2020
+•	I was working from home, So I downloaded tutorials on Angular with routes,service JSON and http.
+•	I created a new templete for the system.
+03 Febraury 2020
+•	I worked with to make used of the templete, put the component and routes
+•	Front-end groups was discussing the templete with the back-end
+Week from 08 February to 12 February 2021
+
+
+Week from 22 February to 26 February 2021 
