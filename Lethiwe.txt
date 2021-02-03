@@ -31,3 +31,12 @@ Started with Updating user Profile backend API.
 Am currently doing API to display users Information on the profile page.
 We had a sprint retrospective meeting, to go through our backlog on and look at what is done and what is giving us a problem.
 
+25 january - 03 febuary
+I finished the update backend API.
+Started craeting backend API for payment and checkout.
+We presented on friday and got feedback that we must include open APIs also like for google maps.
+Webreported to work on tuesday, my group is suppose to report to work on tuesday and thursday.
+Currently am working on the API for payment and to  get payment info for the admin to view.
+Am doing research on how to connect mysql tables so i can access their fields in node js.
+
+
