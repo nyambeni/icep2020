@@ -14,3 +14,7 @@ Nduduzo Ngobese
 20 January 2021, As i was busy with the get API , I encountered some errors , on this day i was doing some research on how to fix them with my team.
 21 January 2021, We were preparing for the presentation that we were going to have the following day, making sure that our System is running.
 22 January 2021, We presented our system to our leaders, I was presenting for the developers team and it was a successful presentation.
+25 January 2021 , I was working on making necessary connection for the backend and frontend and fix otther errors we encountered. then we did a daily stand up
+26 January 2021, I attended the daily stand up that we had with our group and told our Scrum what is left.
+28 January 2021, I made changes on our system since we discovered that there was some things we did not add for our student and i attended a daily stand up
+01 February 2021,  I reported to the office on Monday , I changed buttons for the login page and addd a button for the admin and a welcome page for the admin after they have logged in. 
