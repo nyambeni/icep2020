@@ -38,12 +38,32 @@ WEEK 6(18/01/2021 – 22/01/2021)
 -	I have started modifying my backend APIs by trying to add verification of the form.
 -	Had challenges with the frontend it was not running in my machine. I had to recreate a new angular project and copy some of the files to it.
 -	Modified the frontend.
--	On Wednesday I got a call from Mr. Moutlwatse telling me that I am a selected candidate. So, I had to come back to Soshanguve to attend an interview.
+-	On Wednesday I got a call from ICEP telling me that I am a selected candidate. So, I had to come back to Soshanguve to attend an interview.
 -	Thursday, I packed all my staff I went straight to Soshanguve.
--	Friday, I attended the interview, and it was not bad at all. Immediately after the interview my team was already on an online presentation presenting our tutor system. 
+-	Friday, I attended the interview, and it was not bad at all. Immediately after the interview my team was already on an online presentation presenting our tutor system and I had to join them. 
 -	Created a new database.
 -	Attended the daily standup.
+-	Created Get and post services.
 -	Managed to run the GET API in our app.
--	starteda new task posting data from form to database.
+-	Jumped into next task posting data from form to database.
+ 
+
+
+WEEK 7(25/01/2021 – 29/01/2021)
+
+-	Presented our first Sprint. 
+-	Over the weekend I was able to POST (Register API) from the register form to database and GET (view users API) from the database to a table on the system.
+-	I have added a navigation on top so that we are able to route through our pages since we were unable to navigate through pages. Then started creating components and then paste code from the project that was not running. I changed some of the staff.
+-	Completed all my APIs for GET, POST, DELETE and PUT.
+-	Mr. Nyambeni helped us with the registering API, so he shared the code on Git.
+-	Downloaded the code to my machine.
+
+WEEK 8(1/02/2021 – 5/02/2021)
+
+-	First day reporting to ICEP in 2020. It was work as usual.
+-	Modified the register code Mr. Nyambeni shared.
+-	Updated our database.
+-	Fixed register API, everything working accept confirming existence of email.
+
  
 
