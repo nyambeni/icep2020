@@ -28,4 +28,8 @@ which is basically giving access to pages when rendering and worked on http inte
 I created the admin UI and added the functionality to read and delete customer information.
 I also created update customer profile but is not working as well as i want it to work.
 
+1 - 5 Feb
+This week i focused on modifying the view of the register, login, updated customer profile
+and admin pages, I also added page not found. 
+
 
