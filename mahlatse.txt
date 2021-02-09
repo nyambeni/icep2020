@@ -57,5 +57,12 @@ i have managed to make it work.
 
 01-05 february 2021
 
+i was fixing api for customer 
+we managed to connect the back end to the from and also tested some of the api 
+using the front end.
+on friday we presented the was given a new project to work on which is called gift box
+
+08-12 february 2020
+
 
 
