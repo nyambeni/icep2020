@@ -39,4 +39,13 @@ Webreported to work on tuesday, my group is suppose to report to work on tuesday
 Currently am working on the API for payment and to  get payment info for the admin to view.
 Am doing research on how to connect mysql tables so i can access their fields in node js.
 
+4 febuary - 09 febuary
 
+I finished the APIs for the payment and worked on our apis structure,
+came across some errors with our APIs new structure.
+worked on fixing those errors.
+we presented on friday and we got introduced to our new system that we going to be doing from now on.
+i did research on gift box.
+am currently working on backend APIs to apload images to database (which will be done b the admin) 
+and to view those images on the landing page. 
+Am also working on login APIs for the admin.
