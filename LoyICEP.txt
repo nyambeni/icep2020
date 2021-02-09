@@ -76,6 +76,23 @@ Week from 25 January to 29 January 2021
 •	My group and I held our daily stand-up and prepared for the presentation.
 •	We presented the progress of our system on how far we are.
 
+Week from 1 February to 5 February 2021 
+1 February 2021
+•	My group and I held our daily stand-up.
+•	Working on the checkout page, making few adjustments.
+2 February 2021
+•	We reported to the office.
+•	Changed some of the designs on the landing, shop, shop for ladies/men and checkout pages.
+3 February 2021
+•	My group and I held our daily stand-up.
+•	Connected the API for the payment and adding to cart table on the checkout page.
+•	Improved the search bar on the landing page.
+4 February 2021
+•	We reported to the office.
+•	Made final changes on the designs and tested the system to prepare for the presentation.
+5 February 2021 
+•	My group and I held our daily stand-up and prepared for the presentation.
+•	We presented the progress of our system on how far we are.
 
 
 
