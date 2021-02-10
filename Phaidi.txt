@@ -20,5 +20,28 @@ medical record, but my progress was without luck.
 I am currently busy learning the procedures of an API, basically how to create an API, so far, i managed
 to get "cannot POST" error, work in progress.
 
+01 Feb 2021
+
+Our supervisors suggested to micro manage our project due to lack of progress. They have created a Git 
+repository, we had to create our branches from the main.
+
+I am tasked with a front-end page "Patient Bookings" for Patien Record sytem. Since it is a basic Agular 
+task, i dont imagine i will not be facing any challenges.
+
+I completed all my page, so far the only challenge i had was with "bookings.component.ts" file's code but
+with an assistance of research and my fellow developers, i managed to deliver in time.
+
+ 
+08 Feb 2021
+
+It is our presentation week, last week Friday we failed to present due to the other developers pair on our 
+group "patient registration" page (front and back-end), the back-end developer failed to push to Git.
+
+Every developer had to focus on the main functions of the system,  which was to print a medical record and
+manage bookings for patients.
+
+On Friday "presentation day", due to social distancing, we presented online using Teams, we had technical errors
+"Network problems". Before we could finish, they gave us onther project and at that moment they told us "Patient
+Record System" is done, our project was a mobile app, using IONIC.
 
 
