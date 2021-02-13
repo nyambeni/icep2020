@@ -64,6 +64,14 @@ WEEK 8(1/02/2021 – 5/02/2021)
 -	Modified the register code Mr. Nyambeni shared.
 -	Updated our database.
 -	Fixed register API, everything working accept confirming existence of email.
+-	finally got it right my API was able to check if email exist on database before user can register.
+
+WEEK 9(8/02/2021 – 12/02/2021)
+-	Assigned to a new task which is adding a registering functionality to ICEP website.
+-	Got the documentation via slack.
+-	Had a meeting with the product owner.
+-	Completed cloud computing course on AWS educate.
+
 
  
 
