@@ -49,3 +49,8 @@ i did research on gift box.
 am currently working on backend APIs to apload images to database (which will be done b the admin) 
 and to view those images on the landing page. 
 Am also working on login APIs for the admin.
+
+09 Febuary - 15 Febuary
+I finished with the backend API to login and to upload images to database.
+Am currently doing backend API to view images from the databse to the homepage.
+
