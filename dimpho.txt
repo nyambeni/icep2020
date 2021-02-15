@@ -1,1 +1,79 @@
-Dimpho
+07 December 2020
+
+First day of induction was intimidating because I did not know what to expect. Arriving 30 minutes before the stated time helped me relax the nerves a little bit. During the session we met all the mentors who also helped the class to be more at ease by playing very interesting games which helped stimulate the mind. 
+
+
+08 December 2020
+
+Second day was more relaxed. We met former students who also went through the ICEP process and now had corporate exposure who were very candid with all the knowledge they shared. Hearing their testimonials was an icebreaker, sort of an eye opner into what the world of work has to offer in the Information Technology industry. 
+
+09 December 2020
+
+Third day of induction was about meeting all the lecturers in charge of overseeing our progress at ICEP. We met Mr Phurutsi and Mr Ranko, for more information on what we would be embarking on during our time at ICEP.
+
+We were grouped together and got to know each other. we decided on what application we wanted to develop. The project was approved and we started with research on how we would execute the project.
+
+10 December 
+
+We met with Kabelo who explained to us about what software we will be using for development at ICEP. He explained about Typescript and AngularJS. 
+
+We also met Calvin who introduced himself as the scrum master and explained how the process of agile works and how we will implement it at ICEP.
+
+*****I downloaded Visual Studio Code and started familiarising myself with the new environment. I also downloaded videos on Angular just so I can master the basics.
+
+11 December 2020
+
+After getting familiar with the basics I decided to copy and paste the login page I created for the interview at ICEP. After that I created one from the start using Angular Material. As soon as I was done I realised the power of Angular. The login page had no back-end functionality. During the creation process I discovered a new way to incorporate validation features to my login page.  
+
+
+12 December 2020 
+
+I created a basic registration page prototype. I has basic validation and not much functionality.  It is very basic but it serves as a guideline for the future.
+
+
+14 December 
+
+I was working with my group members in building 18. I showed them the login page as we as the registration page I created. Then we did research on how the backend of application will function.
+
+
+15 December 
+
+As developers we met at the offices of ICEP
+
+ Mr Nyambeni taught us on how to use Git.
+
+18 December 
+
+Presentation day was a disaster we used the wrong software to develop our application and due to that we completely failed the presentation. This was also the last day of our time at ICEP for the year of 2020.
+
+22 December
+
+I started developing the login page prototype just to get a feel of AngularJS and Visual Studio Code. I was able to use normal HTML which I was familiar with just to grasp the new concept of a new code editor and a new programming language.
+
+23 Deccember 
+
+I started validating the form using Bootstrap 4 which makes the form more interactive and provides feedback to the user. Unfortunately I struggled to use Bootstrap to I used CSS to create feeback messages and styling textbox borders in order to make the form more interactive.
+
+24 December - 
+
+I decided to take a break and watch videos and do some research on front-end development just to get more familiar.
+
+11 January - 16 January
+
+I was unavailable due to a lack of data. But I was not idle, I finished the login page prototype. During this time I also started with the the registration page and because I was a bit familiar with validation processes I was able to complete the registration page.
+
+22 January 
+
+Presentation Day:
+I had the prototype for the login and registration page ready for showing during the presentation. Unfortunately my laptop could not run the application because I restarted my laptop toward the presentation time and it could not run as my time came during presentation time.
+
+23 - 25 January
+
+I converted the prototype into a proper working version with more attractive CSS styles and pictures. Due to the fact that I had a working prototype it was relatively simple to make the convertion to a working login and registration page. I also created a home page with a slideshow carousel just to make our application as attractive as I could. 
+
+26 January 2021
+
+I created a menu page using bootstrap cards to show each spatlho or kota. Each card contains a button to add to cart, a picture of the item, as well as a short description about the spatlho or kota. 
+
+27 January 2021
+
