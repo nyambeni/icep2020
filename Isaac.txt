@@ -32,4 +32,12 @@ I also created update customer profile but is not working as well as i want it t
 This week i focused on modifying the view of the register, login, updated customer profile
 and admin pages, I also added page not found. 
 
+8 - 12 feb
+I was working on admin dashboard, had challanges comming 
+up with the design. but i managed to create a form
+which is a small part of the dashboard also had issues
+with the technolgy i was using so the enter week. I 
+was basically setting up my enviroment.
+
+
 
