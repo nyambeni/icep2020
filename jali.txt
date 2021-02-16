@@ -7,3 +7,5 @@ Jali Our first week at ICEP I and my team were developing a web application for 
 25/01/2021 - 29/01/2021 This week I was still working on updating the API for logging in and registration and i had to work with the the structure so i changed the structure to the one on github.
 
 01/02/2021 - 05/02/2021 This week I did encryption for passwaords when you sign-up and i also did Tokens for loging in for the user, and i fixed errors for displaying data from the back end with the assistence of Mr Nyambeni.
+
+07/02/2021 - 12/02/2021 This week I researched about shooping cart in NodeJs and tried to start it but I did not finish it< I will continue with it from the following week. 
