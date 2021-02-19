@@ -44,4 +44,17 @@ On Friday "presentation day", due to social distancing, we presented online usin
 "Network problems". Before we could finish, they gave us onther project and at that moment they told us "Patient
 Record System" is done, our project was a mobile app, using IONIC.
 
+15 Feb 2021
+
+It is not a bad transition from basic Angular to mix it up with Ionic, new is always better, a challenge non the less, 
+but so far it seem to going well with Ionic.
+
+Due to managing the workload, i am tasked with all the lecturers front-end pages for "Weekly Report" project, the
+project is for Informatics and Foundation departments, it allows lectures to file reports online and HOD to view those 
+repots.
+
+We focusing on main objectives first, for me, that is the "Lecturers Report" page, for the lecture to create their report.
+functionality wise, i am done with creating and canceling the report, i added a toast that still needs some work and i am 
+left with a button to create a PDF out of the report.     
+
 
