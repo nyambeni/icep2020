@@ -60,9 +60,29 @@ i have managed to make it work.
 i was fixing api for customer 
 we managed to connect the back end to the from and also tested some of the api 
 using the front end.
-on friday we presented the was given a new project to work on which is called gift box
+on friday we presented the system  was told that from we will be working on 
+a new projectect which is called gift box
 
-08-12 february 2020
+08-12 february 2021
 
+on the 8th february we had a sprint backlog and discussed the gift box.
+09 february 
+ -we reported to the office and the went through the new project(gift-box)
+10th february 2021
+ -held a daily-stand up with the team 
+11th february
+ -started working on the customer registration api
+12th february
+- my group and i held a daily-stand up
+- then finalised the customer registration api
+- tested the api using postman
+15-19 february 2021
+ 
+15th february --
 
+-started working on the login api
+
+16 february-
+-my team an i held a daily stand up
+17 february we reported to the office and i completed the login api
 
