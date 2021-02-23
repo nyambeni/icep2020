@@ -33,6 +33,7 @@ We had a sprint retrospective meeting, to go through our backlog on and look at 
 
 25 january - 03 febuary
 I finished the update backend API.
+
 Started craeting backend API for payment and checkout.
 We presented on friday and got feedback that we must include open APIs also like for google maps.
 Webreported to work on tuesday, my group is suppose to report to work on tuesday and thursday.
@@ -54,3 +55,7 @@ Am also working on login APIs for the admin.
 I finished with the backend API to login and to upload images to database.
 Am currently doing backend API to view images from the databse to the homepage.
 
+16 Febuary - 23 Febuary
+ Am currently busy with API to add to wishlist.
+ API for payment.
+ 
