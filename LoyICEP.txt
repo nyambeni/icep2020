@@ -125,4 +125,25 @@ Week from 15 February to 19 February 2021
 19 February 2021 
 •	Viewing the items based on their categories.
 
+Week from 22 February to 26 February 2021 
+22 February 2021
+•	Created and worked on wish list page.
+•	Created icons for the add to wish list and add to cart on the shop page.
+23 February 2021
+•	Worked on the appearance of the wish list page.
+•	Created a demo for wish list on how it should look.
+24 February 2021
+•	Collected data from the shop page to the wish list page.
+•	Created a button to remove items from the wish list and to add to cart.
+•	And added the add to cart icon.
+25 February 2021
+•	As the front-end developers, we combined our work.
+•	Created a table in the checkout page to see how the items are going to be viewed after being selected.
+•	We held a Sprint Review with KB, and we presented what we had, and we discussed the challenges we have as a group and how we can solve them, and later that day we held another meeting.
+•	We prepared for the presentation for Friday, but load shedding happened.
+26 February 2021 
+•	We gave a progress report.
+•	Created a delete order button.
+
+
 
