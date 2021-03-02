@@ -39,5 +39,15 @@ which is a small part of the dashboard also had issues
 with the technolgy i was using so the enter week. I 
 was basically setting up my enviroment.
 
+15 - 19 feb
+was working on checkout page struggle with putting everything together,
+couldn't put the components together or rather they were not working as intended. I was catch up with the appearance of the page, I had to change api of register and login as it was requested by my team.
+
+22 - 26 feb
+created checkout page and validation for checkout page. I finaly managed to put the components on checkout page together, but i realised 
+the connecting the api is giving us problems as the values we expecting
+from the front-end don't match. I was under alot of pressure since 
+we were to present a system with a lot behind.
+
 
 
