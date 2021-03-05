@@ -32,22 +32,27 @@ I also created update customer profile but is not working as well as i want it t
 This week i focused on modifying the view of the register, login, updated customer profile
 and admin pages, I also added page not found. 
 
-8 - 12 feb
+8 - 12 Feb
 I was working on admin dashboard, had challanges comming 
 up with the design. but i managed to create a form
 which is a small part of the dashboard also had issues
 with the technolgy i was using so the enter week. I 
 was basically setting up my enviroment.
 
-15 - 19 feb
+15 - 19 Feb
 was working on checkout page struggle with putting everything together,
 couldn't put the components together or rather they were not working as intended. I was catch up with the appearance of the page, I had to change api of register and login as it was requested by my team.
 
-22 - 26 feb
+22 - 26 Feb
 created checkout page and validation for checkout page. I finaly managed to put the components on checkout page together, but i realised 
 the connecting the api is giving us problems as the values we expecting
 from the front-end don't match. I was under alot of pressure since 
 we were to present a system with a lot behind.
+
+1 - 5 Mar 
+I finishing up the register and login connecting them to fake back end just to simulate the back end but is giving some challenges. 
+I was working on add giftbox form on the admin, I having challenges with uploading pictures on gitbox, but I think I will be able to 
+finish it my next week as I feel like I'm getting closer to the solution.
 
 
 
