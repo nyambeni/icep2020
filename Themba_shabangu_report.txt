@@ -1,0 +1,65 @@
+ Themba Shabangu Report
+
+FROM DATE 07/12/2020 to 11/12/2020
+>	IT Was My first day at ICEP organisation and I was introduced to us to SCRUM and Agile and bootstrap, node java script, xammp phpmyadmin, post man and angular.
+>	I Attended the ICEP induction.
+>     I was interested in the icep organisation ready to move forward
+>	We marked the register, and we were added to ICEP WHATSAPP group
+>	We were introduced to ICEP technologies APIS
+>	Mr Nyambeni grouped us to make a team to develop a system.
+>	WE develop a tutor system that will give online help to student by providing learning material online.
+>	My team chose me to be responsible for backend development, it was not easy because everything was new.
+>	Initial was to developing the backend by creating the APIs.
+FROM DATE 14/12/2020 to 18/12/2020
+>	It was first presentation which it was success.
+>     Mr Nyambeni and MR. KG were also available to provide extra help.
+>	I manage to run my code and I tested it to postman it was working fine, the problem was connecting it our frontend system.
+>	We managed to read data from the MySQL database to the fronted by the help of Mr KG.
+>	Mr Nyambeni introduced us to Git where we had to clone a file from his repo and add our own files the push them back.
+
+FROM DATE 21/12/2020 to 08/01/2021
+>	I was doing research on APIs.
+>	created new repository at git.
+
+FROM DATE 11/01/2021 to 15/01/2021
+>	The presentation was postponed.
+>	We Manage to Created Get and post services.
+
+>	We had  daily stand-up with the team. 
+
+FROM DATE 18/01/2021 TO 22/01/2021
+
+>	We Manage to Created Get and post services.
+>	Managed to run the GET API in our app.
+
+>	We managed to post data from form to database.
+ 
+>	Modified the frontend.
+>	We developed a database.
+>	We Attended the daily stand-up 
+
+FROM DATE 25/01/2021 TO 29/01/2021
+
+>	We Managed to Presented our first Sprint. 
+>	We created APIs for GET, POST, DELETE and PUT.
+>	Mr Nyambeni helped us with the registering API, so he shared the code on Git.
+
+
+FROM DATE 1/02/2021 TO 5/02/2021
+
+
+>	Modified the register code Mr Nyambeni shared.
+>	Updated our database.
+>	We Fixed register API, everything working accept confirming existence of email.
+>	Finally got it right my API was able to check if email exist on database before user can register.
+
+FROM DATE 8/02/2021 TO 12/02/2021
+>	WE were assigned to a new task which is adding a registering functionality to ICEP website.
+>	Got the documentation via slack.
+> We had a meeting with the product owner and he requested an applicant must register and create portfolio to apply for internship.
+
+FROM DATE 1/03/2021 TO 5/03/2021
+> We had daily stand-up
+> The was updated code on Mr Nyambeni Code. The was no network to test APIs he created.
+> I review Mr Nyambeni code , I was confused on upload API
+> I am still working on it.
