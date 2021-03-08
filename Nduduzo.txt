@@ -19,4 +19,10 @@ Nduduzo Ngobese
 28 January 2021, I made changes on our system since we discovered that there was some things we did not add for our student and i attended a daily stand up
 01 February 2021,  I reported to the office on Monday , I changed buttons for the login page and addd a button for the admin and a welcome page for the admin after they have logged in. 
 03 February 2021, I added a table on th e content page that contains a tutorial video and a pdf tutorial file and they were downloadable .
-05 February 2021 , I presented our system and it was our last presentation for it
+05 February 2021 , I presented our system and it was our last presentation for it.
+16 February 2021, We had a meeting with our product owner, we discussed the product backlog and we made a framework for our system.
+17 February 2021, we had our first daily scrum for the new icep website project
+18 February 2021, as a front end developer I started to design an interface for our system.
+23 February 2021, We had a daily stand up and shared our progress with the team
+24 February 2021, I created a create profile page that the applicant will use to create their profile in our system
+25 February 2021, We had our first sprint review with our leader, and I presented the work we did
