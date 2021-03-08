@@ -145,5 +145,21 @@ Week from 22 February to 26 February 2021
 •	We gave a progress report.
 •	Created a delete order button.
 
+Week from 1 March to 5 March 2021 
+1 March 2021
+•	Created an increment and decrement button for selecting how many of boxes you want for that one specific item that you selected. This was created on the checkout page.
+
+2 March 2021
+•	Created a view order page for the customer. 
+•	Created a table that views the orders that have been placed by the customer and this table is viewed by the admin.
+
+3 March 2021
+•	Proceeded with the view order for the admin.
+
+4 March 2021
+•	Made changes on with the view order for the admin.
+
+5 March 2021
+•	Made changes on with the view order for the admin and added the total amount for each customer.
 
 
