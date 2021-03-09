@@ -63,3 +63,6 @@ FROM DATE 1/03/2021 TO 5/03/2021
 > The was updated code on Mr Nyambeni Code. The was no network to test APIs he created.
 > I review Mr Nyambeni code , I was confused on upload API
 > I am still working on it.
+FROM DATE 8/03/2021 TO 12/03/2021
+> we had meeting with project mananger he announced new scrum master
+> test APIs Registering and profile for student.
