@@ -67,3 +67,4 @@ FROM DATE 8/03/2021 TO 12/03/2021
 > we had meeting with project mananger he announced new scrum master
 > test APIs Registering and profile for student.
 >i have login to git hub and  pull and add,commit,push my report. 
+>try to test with front-end the APIs
