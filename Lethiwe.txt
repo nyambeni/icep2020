@@ -59,4 +59,9 @@ Am currently doing backend API to view images from the databse to the homepage.
  Am currently busy with API to add to wishlist.
  API for payment.
  
- 
+ 24 Febuary - 10 March
+ Finished with customer backend APIs.
+ Been busy with Admin APIs for backend.
+ I ran through a bit of fall back, my APIs werent running on my laptop but on my colleague's laptop it wass running.
+ After i resolved that issue i started with the APIs for Admin.
+ Currently am busy with generating report API. 
