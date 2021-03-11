@@ -13,3 +13,5 @@ Jali Our first week at ICEP I and my team were developing a web application for 
 15/02/2021 - 19/02/2021 This week we were give a project to work on with all the code we had to check if the code it running and also fix what is not working on it, and also add the missign code on the code 
 
 22/02/2021 - 26/02/2021 This week I did the vendor registering page to make it fit the new vendor roles and I also updated the database and all registering user pages to fit the new backlog of the system.
+
+01/03/2021 - 05/03/2021 this week I did the adding of address to another table called address so that i can use it to view shops by location and also tried image uploading which i did not finish and did not push cause it was not working/
