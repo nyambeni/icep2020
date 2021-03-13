@@ -54,5 +54,10 @@ I finishing up the register and login connecting them to fake back end just to s
 I was working on add giftbox form on the admin, I having challenges with uploading pictures on gitbox, but I think I will be able to 
 finish it my next week as I feel like I'm getting closer to the solution.
 
+8 - 12 Mar
+I was connecting coustomer table and order table on the admin but spend most of the time working on the previous code
+since it had a lot of things to be changed on. I guess we had challanges following the plan or delivering what we 
+thought we could. This was a week full of pressure for me since we didn't have internet connection at work so
+i couldn't get the work that i had at the office from my home pc.
 
 
