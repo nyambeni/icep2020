@@ -163,3 +163,23 @@ Week from 1 March to 5 March 2021
 •	Made changes on with the view order for the admin and added the total amount for each customer.
 
 
+Week from 8 March to 10 March 2021 
+8 March 2021
+•	As front-end developers we connected the API’s.
+
+9 March 2021
+•	Prepared the front-end code for connecting the API’s.
+•	Made changes on the view orders which is viewed by the admin, for the admin to view the order by a specific name.
+
+10 March 2021
+•	Created the table to view customers that registered to the system.
+•	As front-end developers we connected the API’s.
+
+11 March 2021
+•	Added search on the view customer and the view orders page for the admin and made some few changes on the appearance.
+•	Made changes on the admin dashboard, so that the admin will be able to see how many customers are registered to the system, how many orders are there, and how many items are there.
+
+12 March 2021
+•	We gave a progress report.
+•	Created the login page for the admin.	
+
