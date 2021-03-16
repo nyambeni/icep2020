@@ -68,3 +68,11 @@ FROM DATE 8/03/2021 TO 12/03/2021
 > test APIs Registering and profile for student.
 >i have login to git hub and  pull and add,commit,push my report. 
 >try to test with front-end the APIs
+
+FROM DATE 14/03/2021 TO 19/03/2021
+
+>WE have created upload file api 
+>WE have notice that api application needed to change and allow student to upload singel file.
+>Verify erd with database and front end.
+> I WROTE AWS
+>am preparing the for presantation base on individual problem statement.
