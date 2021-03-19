@@ -34,7 +34,6 @@ Week from 11 January to 15 January 2021
 •	I researched on front-end development to improve my front-end skills, especially angular.
 
 Week from 18 January to 22 January 2021 
-
 18 January 2021
 •	We held our daily stand-up.
 •	Presented the progress of our system to the scrum master
@@ -67,16 +66,111 @@ Week from 25 January to 29 January 2021
 •	I coded another component and linked it with the student page. I worked on it with a member.
 
 Week from 01 February to 5 February 2021
-01 February 2020
+01 February 2021
 •	I worked with member of the front to customize a few thing on the page, like adding buttons and changing them
 •	We add a button on the admin page to delete the students.
-02 February 2020
+02 February 2021
 •	I was working from home, So I downloaded tutorials on Angular with routes,service JSON and http.
 •	I created a new templete for the system.
-03 Febraury 2020
+03 Febraury 2021
 •	I worked with to make used of the templete, put the component and routes
 •	Front-end groups was discussing the templete with the back-end
-Week from 08 February to 12 February 2021
 
+Week from 8 February to 12 February 2021
+08 February 2021
+•	We held our daily stand-up
+•	Discussed how far are we with the system as developer
+•	Changed our user case to properly design the system
+09 Febraury 2021
+•	We held our daily stand-up
+•	I changed the form and fit in the attributes that we discussed
+•	My front-end mates helped me with the routing codes
+10 Febraury 2021
+•	We held a fewer minutes stand-out to discuss outsatnding work and how to cut it short
+•	The developer team compiled the work and pushed to git to test the system
+•	I create a component for the resource uploads as delegated
+11 February 2021
+•	I finished up the uploads component with the other front-end developer
+•	We compilled the components for the resource and styled it 
+• 	We held a daily stand-up later on to discuss presentation
+•	We prepared for the presentation
+12 February 2021
+•	We presented the system and wrapped on the system
+•	we were told about the new system to be introduced.
 
+Week from 15 February to 19 February 2021
+15 February 2021
+•	We were introduced to a new project and client
+•	We go the new documentation via Slack for the requirement of the new system
+•	I went through the AWS educate and did some tasks
+16 February 2021
+•	The whole group had a sprint planning with the product owner to discuss the new system adjustments.
+•	We had a meeting as team, to further planning the project and delegate the project tasks.
+17 February 2021
+•	We held our daily stand-up
+•	
+18 February 2021
+•	We held our daily stand-up
+•	My front-end mates and I, create a template of a registration form to give the team an idea of attribute to use
+•	Gave the back-end the form to creat the database
+•	We Create the service to test the Form
+19 February 2021	
+•	I created pure HTML pages to give me a view of what I going to do
+•	I transfered some the pages to angular and had errors 
 Week from 22 February to 26 February 2021 
+22 February 2021
+•	We held our daily stand-up
+•	I created a dashboard component for students
+•	I coded the styles for the dashboard and the font-awesome
+23 February 2021
+•	We held ourr daily stand-up
+•	I changed the structure of the dashboard for students and made it user-friendly
+24 February 2021
+•	We held a daliy stand- up 
+•	We transfer our HTML page to or system in angular, some were gives us errors
+25 February 2021
+•	We had an online Sprint-Review and Retrospection
+•	We got feedback from the client
+26 February 2021
+•	We had to present our system progress but the presentation was reschedule to the following week
+
+Week from 01 March to 05 March 2021
+01 March 2021
+•	We were supposed to continue with other parts of our development but unfortunately there was a strike.
+•
+02 March 2021
+03 March 2021
+04 March 2021
+05 March 2021
+
+Week from 08 March to 12 March 2021
+08 March 2021
+09 March 2021
+10 March 2021
+11 March 2021
+12 March 2021
+
+Week from 15 March to 19 March 2021
+15 March 2021
+16 March 2021
+17 March 2021
+18 March 2021
+19 March 2021
+
+Week from 22 March to 26 March 2021
+22 March 2021
+23 March 2021
+24 March 2021
+25 March 2021
+26 March 2021
+
+
+Week from 29 March to 02 April 2021
+
+Week from 05 April to 09 April 2021
+
+Week from 12 April to 16 April 2021
+
+Week from 19 April to 23 April 2021
+
+Week from 26 April to 30 April 2021
