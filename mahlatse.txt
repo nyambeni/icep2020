@@ -87,15 +87,19 @@ on the 8th february we had a sprint backlog and discussed the gift box.
 
 19 february we where trying to connect the register api and login api to the front end
 
-21 to 26  february 2021
+21 february 2021 to 12 march 2021
 
-started working on the customer api which included profile update api,account delete api and view profile api
+-started working on the customer api which included profile update api,account delete api and view profile api
 and add to wishlist api
+-26 february we presented our system 
+-delete account Api
+-Worked on view customer orders api for admin
+-12 march  we presented our system 
 
-26 february we presented our system 
-
-01 march to 5 march 2021
-
-
+15 to 19 march 2021
+-delete order api for customer
+-view items by category api 
+-view all item api
+-admin getting all customer api
 
 
