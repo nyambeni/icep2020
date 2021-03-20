@@ -72,6 +72,25 @@ WEEK 9(8/02/2021 – 12/02/2021)
 -	Had a meeting with the product owner.
 -	Completed cloud computing course on AWS educate.
 
+WEEK 10(15/02/2021 – 19/02/2021)
+- We had daily stand-up
+- Tested the connection between Frontend and back end
 
- 
+WEEK 11(22/02/2021 – 26/02/2021)
+- Was working on AWS
 
+WEEK 12(1/03/2021 – 5/02/2021)
+> We had daily stand-up
+> The was updated code on Mr Nyambeni Code. The was no network to test APIs he created.
+> I review Mr Nyambeni code , I was confused on upload API
+> I am still working on it.	
+
+WEEK 13(8/02/2021 – 12/02/2021)
+> we had meeting with project mananger he announced new scrum master
+> test APIs Registering and profile for student.
+>i have login to git hub and  pull and add,commit,push my report. 
+>try to test with front-end the APIs
+
+WEEK 14(15/02/2021 – 19/02/2021)
+- We are working on appload APIs
+- completing AWS.

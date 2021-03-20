@@ -65,3 +65,9 @@ Am currently doing backend API to view images from the databse to the homepage.
  I ran through a bit of fall back, my APIs werent running on my laptop but on my colleague's laptop it wass running.
  After i resolved that issue i started with the APIs for Admin.
  Currently am busy with generating report API. 
+ 
+ 11 March - 17 March
+Ive been doing the report API fr the admin backend.
+Started with my aws course.
+Willl be busy with aws this week.
+ 

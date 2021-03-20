@@ -47,7 +47,7 @@ Record System" is done, our project was a mobile app, using IONIC.
 15 Feb 2021
 
 It is not a bad transition from basic Angular to mix it up with Ionic, new is always better, a challenge non the less, 
-but so far it seem to going well with Ionic.
+but so far it seem going well with Ionic.
 
 Due to managing the workload, i am tasked with all the lecturers front-end pages for "Weekly Report" project, the
 project is for Informatics and Foundation departments, it allows lectures to file reports online and HOD to view those 
@@ -55,6 +55,45 @@ repots.
 
 We focusing on main objectives first, for me, that is the "Lecturers Report" page, for the lecture to create their report.
 functionality wise, i am done with creating and canceling the report, i added a toast that still needs some work and i am 
-left with a button to create a PDF out of the report.     
+left with a button to create a PDF out of the report. 
 
+22 Feb 2021 
 
+I managed to complete my task, way ahead before presentation week, my partner, the back-end for my pages has already completed
+his task, he is just waiting for me to validate the front's inputs.
+
+The process of connecting my front to his back, require a service as for Angular's procedures, Ionic is just a look with a framework
+of Angular protocols.The process is for our inputs to correspond with the database, with the connection through APIs and HTTPs, we 
+get to send and retrieve data from the database.
+
+01 Mar 2021 
+
+My pages are sami-complete, connected to the back-end and responding accordingly, i have "lacturer-dashboard" and "lecturer-report",
+we figured as a team that, if we can finish the main objectives then, we are done with the project, my main objective is "lecturer-report"
+and i am done with it.
+
+My only challenge is to validate a checkbox, a checkbox for "taeching methods used", to pass on it on the team's sprint, i have to create a 
+variables for each checkbox and store them individually, and that was against the wireframe we are using, i am still researching the
+concept but i have other tasks i have to attend, i am terrified by the part where i have to create a PDF out of my form.
+
+08 Mar 2021    
+
+I skipped the checkbox, my partner suggested that, since is a presentation week, we use a text-area in stead of a checkbox and he configured
+the back-end to receive a text-area, just for the presantation.
+
+I have started with the research of creating a PDF out of a HTML form, and it turns out, with only three installations, "pdfMake", "@ionic-native/
+file-opener" and "@ionic-native/file" and adding plugins for "cordova" file and file-opener, i can create and download a PDF from HTML form.
+
+We merged the code and added few adjustment, so the main pages can navigate as one project for the presentation, we had network issues, so we 
+presented at the BAs offices, but the project was presented on my laptop, with it running as a server, database and User-Interface. The presentation
+was a success, our product owner commended our pace and added few feature, wich by my estimation are minner.
+
+15 Mar 2021
+
+Just as we should start on the next phase of the project, strike hit the campus, we were issued letters that states that, we are working from home,
+not a good start for the next phase, ultimately our progress is delayed, because two of our development team, do not have laptops or PCs.
+
+I started on the dashboard and i am almost done with it, because most of the work is for the back-end, the back-end have to send most of the front's
+components, what i can classify as hard is the profile photo for the user "lecturer", making static is simple, but ours have dynamic, the user must 
+be able to edit, add, update and remove their profile photo.
+    
