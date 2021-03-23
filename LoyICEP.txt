@@ -183,3 +183,26 @@ Week from 8 March to 10 March 2021
 •	We gave a progress report.
 •	Created the login page for the admin.	
 
+Week from 15 March to 19 March 2021 
+15 March 2021
+•	Connected the API for the admin to view the items.
+•	We were given a problem statement and we presented some solutions, it didn’t go that good for me.
+
+16 March 2021
+•	Connected the API for all the items to be viewed in the shop by the customer, and view by category.
+•	Connected the API for the customer to view his/her order.
+•	Connected API to send to wish list.
+
+
+17 March 2021
+•	Connected API for the admin to delete an item.
+•	Connected API for the customer to delete an item on their wish list.
+•	As front-end developers we connected the API to view a customer by his/her customer ID.
+•	As front-end developers we connected the API for the customer to update his/her profile.
+
+18 March 2021
+•	Was fixing the functionality of buttons on the wish list.
+•	Calculate to the total price for each item in the order as well as the total price of all the items, which is viewed by the customer.
+
+19 March 2021
+•	Debugging the system.
