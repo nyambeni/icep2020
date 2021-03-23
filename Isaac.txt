@@ -61,3 +61,12 @@ thought we could. This was a week full of pressure for me since we didn't have i
 i couldn't get the work that i had at the office from my home pc.
 
 
+15 - 19 Mar
+This week I was feeling overwelmed with the work, when the 
+mentors adviced us to focus on single task, since they realised 
+we were doing too much i kind of felt less pressure, so i had 
+been doing pair programming with my front-end partner just working
+on making minor touches and improvements on whatever page we realised 
+needed touches.
+
+
