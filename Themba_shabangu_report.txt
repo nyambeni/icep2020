@@ -81,4 +81,4 @@ FROM DATE 22/03/2021 TO 26/03/2021
 >I and Alext  created admin API to view profiles 
 >We created admin API to view applications
 >We created admin API to delete applicatioin
->am focusing on status to be updated on application . 
+>am focusing on status to be updated on application by admin. 
