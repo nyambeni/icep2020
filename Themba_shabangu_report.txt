@@ -32,7 +32,7 @@ FROM DATE 18/01/2021 TO 22/01/2021
 >	We Manage to Created Get and post services.
 >	Managed to run the GET API in our app.
 
->	We managed to post data from form to database.
+>	We managed to post data  form to database.
  
 >	Modified the frontend.
 >	We developed a database.
