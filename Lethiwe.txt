@@ -1,73 +1,77 @@
 NKOSI LETHIWE
 
 9 December
-We were grouped and given a task to create a system to present on Monday, me and my team members, we decided to create an online shopping cart system for clothes.
+We were grouped and given a task to create a system to present on Monday, me and my team members, I decided to create an online shopping cart system for clothes.
 10 December
-The BAs did their work and us developers we did research on the new technologies tht were introduced to us.
+The BAs did their work and as developers, we did research on the new technologies that were introduced to us.
 11 December 
-I did APIs fr the backend part of the login and registration and created the database for the users information and clothing items.
+I did APIs fr the backend part of the login and registration and created the database for the user's information and clothing items.
 14 December
-We presented what we had done so far and got feedback from our head developers and tester. We were struggling wth connecting the APIs to angular.
+We presented what we had done so far and got feedback from our head developers and tester. We were struggling with connecting the APIs to angular.
 17 December
 Did research on connecting APIs to angular and one of our team members made a breakthrough and we connected the APIs to angular.
 20 December 
-I did more research on node js and started wth angular and postman.
+I did more research on node js and started with angular and postman.
 04 December
 I started with agile42 lessons.
 
 
 11 January - 15 January 2021
-My team and i, we had a zoom meeting to talk about a way foward, assigning tasks and updates on how far are we with our work.
-This week i was connecting the login API to angular.
-I implemmented the jwt tokens for user authentication and pushed to git.
-We been having daily standup meeting evey morning at 11 to discuss our tasks for the day.
+My team and I, had a zoom meeting to talk about a way forward, assigning tasks and updates on how far are we with our work.
+This week I was connecting the login API to angular.
+I implemented the jwt tokens for user authentication and pushed them to git.
+We have been having daily standup meetings every morning at 11 to discuss our tasks for the day.
 I completed my agile42 lessons.
 Registered for AWS Educate.
 
 18 January - 25 January
-With the help of Kg, wwe connected the Login API to Angular.
+With the help of Kg, we connected the Login API to Angular.
 We presented our project, to show how far we are.
 Started with Updating user Profile backend API.
 Am currently doing API to display users Information on the profile page.
-We had a sprint retrospective meeting, to go through our backlog on and look at what is done and what is giving us a problem.
+We had a sprint retrospective meeting, to go through our backlog and look at what is done and what is giving us a problem.
 
-25 january - 03 febuary
-I finished the update backend API.
+25 January - 03 February
+I finished the updated backend API.
 
-Started craeting backend API for payment and checkout.
-We presented on friday and got feedback that we must include open APIs also like for google maps.
-Webreported to work on tuesday, my group is suppose to report to work on tuesday and thursday.
-Currently am working on the API for payment and to  get payment info for the admin to view.
-Am doing research on how to connect mysql tables so i can access their fields in node js.
+Started creating backend API for payment and checkout.
+We presented on Friday and got feedback that we must include open APIs also like for google maps.
+We reported to work on Tuesday, my group is supposed to report to work on Tuesday and Thursday.
+Currently am working on the API for payment and to get payment info for the admin to view.
+Am doing research on how to connect MySQL tables so I can access their fields in node js.
 
-4 febuary - 09 febuary
+4 February - 09 February
 
-I finished the APIs for the payment and worked on our apis structure,
+I finished the APIs for the payment and worked on our APIs structure,
 came across some errors with our APIs new structure.
 worked on fixing those errors.
-we presented on friday and we got introduced to our new system that we going to be doing from now on.
-i did research on gift box.
-am currently working on backend APIs to apload images to database (which will be done b the admin) 
+we presented on Friday and we got introduced to the new system that we going to be doing from now on.
+I did research about gift boxes.
+am currently working on backend APIs to upload images to the database (which will be done b the admin) 
 and to view those images on the landing page. 
 Am also working on login APIs for the admin.
 
-09 Febuary - 15 Febuary
-I finished with the backend API to login and to upload images to database.
-Am currently doing backend API to view images from the databse to the homepage.
+09 February - 15 February
+I finished with the backend API to login and upload images to the database.
+Am currently doing backend API to view images from the database to the homepage.
 
-16 Febuary - 23 Febuary
- Am currently busy with API to add to wishlist.
+16 February - 23 February
+ Am currently busy with API to add to the wishlist.
  API for payment.
  
- 24 Febuary - 10 March
+ 24 February - 10 March
  Finished with customer backend APIs.
- Been busy with Admin APIs for backend.
- I ran through a bit of fall back, my APIs werent running on my laptop but on my colleague's laptop it wass running.
- After i resolved that issue i started with the APIs for Admin.
+ Been busy with Admin APIs for the backend.
+ I ran through a bit of fallback, my APIs weren't running on my laptop but on my colleague's laptop, it was running.
+ After I resolved that issue I started with the APIs for Admin.
  Currently am busy with generating report API. 
  
  11 March - 17 March
-Ive been doing the report API fr the admin backend.
-Started with my aws course.
-Willl be busy with aws this week.
+I've been doing the report API fr the admin backend.
+Started with my AWS course.
+Will be busy with AWS this week.
  
+17 March - 29 March
+Finished with my backend APIs.
+Now gonna be focusing on finishing my AWS courses.
+Gonna help where the frontend developers need my help. 
