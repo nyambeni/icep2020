@@ -206,3 +206,22 @@ Week from 15 March to 19 March 2021
 
 19 March 2021
 •	Debugging the system.
+
+
+Week from 22 March to 27 March 2021 
+22 March 2021
+•	Public Holiday
+
+23 March 2021
+•	Merged the front end.
+
+
+24 March 2021
+•	Making changes and some touch ups on the system.
+
+25 March 2021
+•	Added the alert that alerts you after making payment on the checkout.
+•	Included the inputs on the view box page for the admin to edit for changes.
+
+26 March 2021
+•	We had an online progress report presentation.
