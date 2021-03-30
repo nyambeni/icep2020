@@ -69,4 +69,10 @@ been doing pair programming with my front-end partner just working
 on making minor touches and improvements on whatever page we realised 
 needed touches.
 
+22 - 26 Mar
+I was working on the admin page to create login page to make sure it
+will redirect to only pages that it has to. I have done some pair
+programming with my front-end developer to make sure the design look
+proper.
+
 
