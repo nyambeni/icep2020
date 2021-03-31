@@ -4,3 +4,23 @@ got introduced to my team project (patient record)
 got assigned to my task
 my task is to work on backend of patient appointment view
 i learnerd the NODE.JS following youtube tutorials
+
+new week 
+after presentation we got a new system(Weekly report) to work on
+
+i got assigned to a new role front end developer
+
+i had to learn a new language Angular using Ionic framework
+i looked to youtube for tutorial since i was not familar with the language
+
+second week
+i got assigned to do login
+i was assigned to design& create database in two days i was done with it 100%
+
+third week
+i was 60% done with login
+
+fourth week
+i was 90% done
+fifth week
+ i was assigned to registration
