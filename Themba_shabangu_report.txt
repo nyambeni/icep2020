@@ -82,3 +82,9 @@ FROM DATE 22/03/2021 TO 26/03/2021
 >We created admin API to view applications
 >We created admin API to delete applicatioin
 >am focusing on status to be updated on application by admin. 
+
+
+FROM DATE 12/04/2021 TO 16/04/2021
+> i have completed my AWS carrer path 
+>i have tested all required APIs and they are working .
+>i have login to git hub and  pull and add,commit,push my report.
