@@ -12,28 +12,26 @@ FROM DATE 07/12/2020 to 11/12/2020
 >	Initial was to developing the backend by creating the APIs.
 FROM DATE 14/12/2020 to 18/12/2020
 >	It was first presentation which it was success.
->     Mr Nyambeni and MR. KG were also available to provide extra help.
->	I manage to run my code and I tested it to postman it was working fine, the problem was connecting it our frontend system.
->	We managed to read data from the MySQL database to the fronted by the help of Mr KG.
+>  Mr Nyambeni and MR. KG were also available to provide extra help.
 >	Mr Nyambeni introduced us to Git where we had to clone a file from his repo and add our own files the push them back.
 
 FROM DATE 21/12/2020 to 08/01/2021
 >	I was doing research on APIs.
 >	created new repository at git.
+>	I manage to run my code and I tested it to postman it was working fine, the problem was connecting it our frontend system.
+>	We managed to read data from the MySQL database to the fronted by the help of Mr KG.
 
 FROM DATE 11/01/2021 to 15/01/2021
 >	The presentation was postponed.
 >	We Manage to Created Get and post services.
-
 >	We had  daily stand-up with the team. 
 
 FROM DATE 18/01/2021 TO 22/01/2021
 
 >	We Manage to Created Get and post services.
 >	Managed to run the GET API in our app.
-
+>I tested it to postman it was working fine
 >	We managed to post data  form to database.
- 
 >	Modified the frontend.
 >	We developed a database.
 >	We Attended the daily stand-up 
