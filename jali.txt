@@ -14,4 +14,14 @@ Jali Our first week at ICEP I and my team were developing a web application for 
 
 22/02/2021 - 26/02/2021 This week I did the vendor registering page to make it fit the new vendor roles and I also updated the database and all registering user pages to fit the new backlog of the system.
 
-01/03/2021 - 05/03/2021 this week I did the adding of address to another table called address so that i can use it to view shops by location and also tried image uploading which i did not finish and did not push cause it was not working/
+01/03/2021 - 05/03/2021 this week I did the adding of address to another table called address so that i can use it to view shops by location and also tried image uploading which i did not finish and did not push cause it was not working
+
+08/03/2021 - 12/03/2021 I was working on making sure that all the users when they register their address is stored separate from the user table so that we can later use it for location purposes and i also did the displaying of the shop by location
+
+15/03/2021 - 19/03/2021 I was working on updating the API to uplaod logos for the shops when they apply to have their shops listed on our application.
+
+22/03/2021 - 26/03/2021 i did sessions , so that the logged in user can be identified dynamically and have their details displayed to them only and also i did the logout page so that users can logout after they are done using the app
+
+29/03/2021 - 02/04/2021 i was tasked to start learning ionic on my own so that i can assist my team members to finish up our project .
+
+05/03/2021 - 05/03/2021
