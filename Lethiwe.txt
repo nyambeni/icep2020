@@ -75,3 +75,9 @@ Will be busy with AWS this week.
 Finished with my backend APIs.
 Now gonna be focusing on finishing my AWS courses.
 Gonna help where the frontend developers need my help. 
+
+12 April - 16 April
+We had a mini problem with the Image upload backend API, we were able to fix it.
+Still busy with my AWS educate course.
+I have flue this week, i couldnt report to work as i am not sure if its a normal flue or its covid.
+Am in quarantine and hoping to get back to work next week.
