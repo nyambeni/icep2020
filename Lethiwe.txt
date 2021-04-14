@@ -73,6 +73,7 @@ Will be busy with AWS this week.
  
 17 March - 29 March
 Finished with my backend APIs.
+We had an online progress report presentation.
 Now gonna be focusing on finishing my AWS courses.
 Gonna help where the frontend developers need my help. 
 
