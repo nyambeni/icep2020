@@ -1,0 +1,36 @@
+KHODANI MULAUDZI
+
+ Our first week at ICEP I and my team were developing a web application for Kota ordering, I was working on the front end aand did research on the  Angular framework.
+
+11/01/2020 -- 15/01/2021,Started working on the Menu of the campusEats app.
+
+18/01/2021 - 22/01/2021,continued working on the menu,made pictures for the menu and other pages with photoshop.
+
+25/01/2021 - 29/01/2021,Continued working on the menu and also started finding information on doing the registration pages.
+
+01/02/2021 - 05/02/2021, Started working on the Registration Page.
+
+07/02/2021 - 12/02/2021,work on registration continued while i also tried to help Dimpho with the shopping cart.
+
+15/02/2021 - 19/02/2021,We were given a brand new app and i spent time testing it and learning the ionic framework.
+
+22/02/2021 - 26/02/2021,Started changing the registration and login pages on the app.
+
+01/03/2021 - 05/03/2021,continued with the functionality of the registration and login pages.
+
+08/03/2021 - 12/03/2021, started working on the database connection IT WAS TOUGH.
+
+15/03/2021 - 19/03/2021,finally got the database to send informtion but getting information was a struggle.
+
+22/03/2021 - 26/03/2021,still working with getting and displaying information from the database.
+
+29/03/2021 - 02/04/2021,found a way to display the information from the database but its still a struggle.
+
+
+
+
+
+
+
+
+
