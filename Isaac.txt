@@ -75,4 +75,15 @@ will redirect to only pages that it has to. I have done some pair
 programming with my front-end developer to make sure the design look
 proper.
 
+29 Mar - 02 April
+We manage to upload pictures on the admin, also fixed updating of items on admin. I had to do more validation on the some new created pages.
+
+05 - 09 April
+Make sure admin can login and also restrict redireting to certain pages 
+which require for an admin to have logged in first. Fixed register and login navigation. I had to change login page to make sure the user can 
+see their password and also hide it.
+
+12 - 16 April 
+Working on creating report on the admin, still struggling with the structure on the report.
+
 
