@@ -86,3 +86,12 @@ FROM DATE 12/04/2021 TO 16/04/2021
 > i have completed my AWS carrer path 
 >i have tested all required APIs and they are working .
 >i have login to git hub and  pull and add,commit,push my report.
+
+
+FROM DATE 19/04/2021 TO 23/04/2021
+> we are trying to add functionality of nodemailer.
+ so that the applicant can recieve email of confirmation that the account Successfully created.
+ 
+
+
+
