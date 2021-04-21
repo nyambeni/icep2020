@@ -225,3 +225,35 @@ Week from 22 March to 27 March 2021
 
 26 March 2021
 •	We had an online progress report presentation.
+Week from 29 March to 2 April 2021 
+29 March 2021
+•	Connected the update item API.
+
+30 March 2021
+•	Finished the AWS courses.
+
+31 March 2021
+•	Fixed the search for searching the order based using the email address.
+
+1 April 2021
+•	Good Friday long weekend started.
+2 April 2021
+•	Good Friday.
+
+Week from 5 April to 9 April 2021 
+•	Recess
+
+Week from 12 April to 16 April 2021 
+12 April 2021
+•	Edited the pop alert for when the customer makes a purchase.
+
+13 April 2021
+•	Worked on the functionality of the system.
+
+14 April 2021
+•	Fixed the update on the view items.
+15 April 2021
+•	Joined a meeting on IP Awareness.
+•	Worked on the functionality of the system.
+16 April 2021
+•	Worked on the functionality of the system.
