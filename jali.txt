@@ -24,4 +24,10 @@ Jali Our first week at ICEP I and my team were developing a web application for 
 
 29/03/2021 - 02/04/2021 i was tasked to start learning ionic on my own so that i can assist my team members to finish up our project .
 
-05/03/2021 - 05/03/2021
+05/04/2021 - 09/04/2021 This week I went back to Back End since the guys in the from=nt end were coping well and i added an API to view products based on the logged in admin of the particular shop
+
+12/04/2021 - 16/04/2021 This week i started with finishing up API for admin to view things based on the logged in user then also we did the update API for the admin to be able to update shop  status 
+
+19/04/2021 - 23/04/2021 This week i was working with front end developers to make sure the APIs are connectected to the front correctly and fixing some errors found during the time of combining the front and the back and i also updated the database
+
+26/04/2021 - 30/04/2021 this week I made sure that all APIs that I worked in are woriking correctly and found out that my sessions don't work in other PC thats what i left from on friday (30of april 2021)
