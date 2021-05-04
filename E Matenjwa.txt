@@ -101,3 +101,36 @@ WEEK 15(22/03/2021 – 26/03/2021)
 - Apdated the database.
 - The scrum master chose me to present our system.
 - Had a challenge on apploading file.
+WEEK 16(29/03/2021 – 2/04/2021)
+- Completed the Backand APIs and started 
+
+WEEK 17(5/04/2021 – 9/04/2021)
+- Started helping with frontend since.
+
+WEEK 18(12/04/2021 – 16/04/2021)
+- I was learning Angular and doing research on it.
+
+
+WEEK 19(19/04/2021 – 23/04/2021)
+- Created a new Angular project for our System ICEP web reffering from what we had.
+- Created a landing page that include 3 buttons signup, admin, vacancies.
+- Created functions to add token to give users access to protected routes.
+- Created service for all functions.
+- Added a Post vacancy fuction.
+- Added a Post vacancy API and added it to our frontend service.
+- Did presentation.
+
+WEEK 20(26/04/2021 – 23/04/2021)
+- recess
+
+WEEK 20(3/05/2021 – 7/05/2021)
+- Apdated my report
+
+
+
+
+
+
+
+
+
