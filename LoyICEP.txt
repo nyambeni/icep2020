@@ -257,3 +257,21 @@ Week from 12 April to 16 April 2021
 •	Worked on the functionality of the system.
 16 April 2021
 •	Worked on the functionality of the system.
+
+Week from 19 April to 23 April 2021 
+19 April 2021
+•	Inside shop, I added a popup to view the description of the item when clicking on the image.
+
+20 April 2021
+•	Worked on the functionality of the system.
+
+21 April 2021
+•	On update page, made changes on the updating part to update a specific item when you click on the item’s edit button.
+22 April 2021
+•	Worked on the functionality of the system.
+•	Prepared the system for Friday’s presentation.
+23 April 2021
+•	Presented the system.
+
+Week from 26 April to 30 April 2021 
+•	Recess
