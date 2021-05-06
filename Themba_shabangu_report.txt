@@ -89,9 +89,21 @@ FROM DATE 12/04/2021 TO 16/04/2021
 
 
 FROM DATE 19/04/2021 TO 23/04/2021
-> we are trying to add functionality of nodemailer.
+> We are trying to add functionality of nodemailer.
  so that the applicant can recieve email of confirmation that the account Successfully created.
- 
+> We managed to created a new Angular project for our System ICEP web reffering from what we had.
+> We managed to created a landing page that include 3 buttons signup, admin, vacancies.
+>  We managed to created functions to add token to give users access to protected routes.
+>   We managed to created Post vacancy fuction.
+>   We Added a Post vacancy API and added it to our frontend service.
+>   Me and Alex we Did presentation.
+
+WEEK 20(26/04/2021 – 23/04/2021)
+> We had a recess
+> i mananged to learn more about github and  agile development and Scrum.
+
+WEEK 20(3/05/2021 – 7/05/2021)
+>i have login to git hub and  pull and add,commit,push my report. 
 
 
 
