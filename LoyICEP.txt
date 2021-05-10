@@ -275,3 +275,23 @@ Week from 19 April to 23 April 2021
 
 Week from 26 April to 30 April 2021 
 •	Recess
+
+Week from 3 May to 7 May 2021 
+3 May 2021
+•	Changed the design for the Admin Dashboard page.
+•	Added the Alert messages on the Add Gift Box page, for when you add an item the message will popup.
+•	Added an alert message on the View Gift Box page, so that when you delete or update the item the message will popup.
+•	Made changes on the View Gift Box page, so that when the admin adds an item, the item that was added will appear as the first item when viewing the items.
+
+4 May 2021
+•	Worked on the functionality of the system.
+•	Worked on how the system will appear when viewed by a phone.
+
+5 May 2021
+•	Worked on the functionality of the system to make sure the quantity of the items are added or subtracted well when the customer buys more then one box for a specific item.
+•	Started with the report of what I did on the system on the front end part.
+•	Took screenshots of the system to add in the report.
+6 May 2021
+•	Proceeded with the report.
+7 May 2021
+•	Finalised the report.
