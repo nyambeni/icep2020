@@ -18,14 +18,17 @@ the API I realise had to create sessions on the front-end and token.
 10 -15 Jan
 I went on learning about sessions and token. They are still giving
 me hard time but I think I will manage to finish them over the weekends.
+This week was stressfull as many things which I though I
+was going to manage to do I couldn't do.
 
 
 18 - 22 Jan
-I created validation for the login and register, I did routing authentications
+I created validation for the login and register, I did routing authentications,
 which is basically giving access to pages when rendering and worked on http intercepters.
+I had to attend a meeting with my teamates.
 
 25 - 29 Jan 
-I created the admin UI and added the functionality to read and delete customer information.
+I created the admin UI and added the functionality to read and delete customer information. 
 I also created update customer profile but is not working as well as i want it to work.
 
 1 - 5 Feb
@@ -41,12 +44,14 @@ was basically setting up my enviroment.
 
 15 - 19 Feb
 was working on checkout page struggle with putting everything together,
-couldn't put the components together or rather they were not working as intended. I was catch up with the appearance of the page, I had to change api of register and login as it was requested by my team.
+couldn't put the components together or rather they were not working as intended.
+I was catch up with the appearance of the page, I had to change api of register and
+login as it was requested by my team.
 
 22 - 26 Feb
-created checkout page and validation for checkout page. I finaly managed to put the components on checkout page together, but i realised 
-the connecting the api is giving us problems as the values we expecting
-from the front-end don't match. I was under alot of pressure since 
+created checkout page and validation for checkout page. I finaly managed to put the components 
+on checkout page together, but i realised the connecting the api is giving us problems as the
+values we expecting from the front-end don't match. I was under alot of pressure since 
 we were to present a system with a lot behind.
 
 1 - 5 Mar 
@@ -76,14 +81,43 @@ programming with my front-end developer to make sure the design look
 proper.
 
 29 Mar - 02 April
-We manage to upload pictures on the admin, also fixed updating of items on admin. I had to do more validation on the some new created pages.
+We manage to upload pictures on the admin, also fixed updating of items on admin. 
+I had to do more validation on the some new created pages. This week I feel like
+I almost over worked as I was so tired, I was finding it difficult to focus on 
+most staff that I considered to require little to not much focus on.
 
 05 - 09 April
 Make sure admin can login and also restrict redireting to certain pages 
-which require for an admin to have logged in first. Fixed register and login navigation. I had to change login page to make sure the user can 
+which require for an admin to have logged in first. Fixed register and login navigation.
+I had to change login page to make sure the user can 
 see their password and also hide it.
 
 12 - 16 April 
 Working on creating report on the admin, still struggling with the structure on the report.
+I looked at areas where I could clean up code and did designs as there seems like there is
+always things to change on the design I was pretty much everywhere on the UI. I did some 
+pair programming with my fellow front-end developer team mate since we didn't have any task
+to take on that time.
 
+19 - 23
+Managed to get the structure of the report, but we couldn't decide on how it should be 
+designed on the admin since, we felt like the information in the report is the same as 
+the existing navigation's information within admin. I had to create a download pdf on the admin,
+just could not manage it.
 
+26 - 30
+I had to continue with creation of the download on the pdf, our APIs 
+have been tempared with which made it had to demostrate the entire system to our BA teammates 
+challaging, I finaly managed how to make use of pdf download.
+
+03 - 07
+I tried to make information go for the intire page once the scroll bar appear I had to make 
+other page but i could not do it. which made me realise that the download page was doing to 
+be use less I had to talk with my team and we decided to remove download of pdf on the report
+and is not like it was really need on the system.
+
+10 - 14
+We had to fix admin log in and subtracting of the items/boxes when users make purchases, as
+we were testing the system we realised some of our validations where not working as they 
+where suppose to. That made me realise the importance of testing but I stressed and under 
+pressure since we had to present on that Friday that week.
