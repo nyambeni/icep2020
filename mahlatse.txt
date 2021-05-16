@@ -96,10 +96,43 @@ and add to wishlist api
 -Worked on view customer orders api for admin
 -12 march  we presented our system 
 
-15 to 19 march 2021
+15 march  to 29 march 2021
 -delete order api for customer
 -view items by category api 
 -view all item api
 -admin getting all customer api
+-we had an online progress report presentation.
+-started doing my AWS courses.
+
+12 april - 23 april 2021
+
+- started having problems with the image upload API .
+-continued with the aws course.
+-we managed to fix the image upload api for admin
+- 15 april we had a meeting on IP Awareness which was held on zoom
+-went back tested if the api where still functioning properly
+-pushed to git
+-prepared for the presentation of the 23rd april
+-then presented the system
+
+26 april to 30 april 2021
+
+-we went to recess
+
+03 may - 14 may 2021
+-admin login api was giving us problem
+-added quantity update api
+-added cart api
+-continued with aws course
+-managed to fix the login api
+-started with a report
+-14 may we had a presentation for our system
+
+
+
+
+
+
+
 
 
