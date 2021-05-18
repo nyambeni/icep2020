@@ -3,7 +3,7 @@
 FROM DATE 07/12/2020 to 11/12/2020
 >	IT Was My first day at ICEP organisation and I was introduced to us to SCRUM and Agile and bootstrap, node java script, xammp phpmyadmin, post man and angular.
 >	I Attended the ICEP induction.
->     I was interested in the icep organisation ready to move forward
+> I was interested in the icep organisation ready to move forward
 >	We marked the register, and we were added to ICEP WHATSAPP group
 >	We were introduced to ICEP technologies APIS
 >	Mr Nyambeni grouped us to make a team to develop a system.
@@ -93,17 +93,31 @@ FROM DATE 19/04/2021 TO 23/04/2021
  so that the applicant can recieve email of confirmation that the account Successfully created.
 > We managed to created a new Angular project for our System ICEP web reffering from what we had.
 > We managed to created a landing page that include 3 buttons signup, admin, vacancies.
->  We managed to created functions to add token to give users access to protected routes.
->   We managed to created Post vacancy fuction.
->   We Added a Post vacancy API and added it to our frontend service.
->   Me and Alex we Did presentation.
+> We managed to created functions to add token to give users access to protected routes.
+> We managed to created Post vacancy fuction.
+> We Added a Post vacancy API and added it to our frontend service.
+> Me and Alex we Did presentation.
 
-WEEK 20(26/04/2021 – 23/04/2021)
+FROM DATE 26/04/2021 – 23/04/2021
 > We had a recess
 > i mananged to learn more about github and  agile development and Scrum.
 
-WEEK 20(3/05/2021 – 7/05/2021)
+FROM DATE 3/05/2021 – 7/05/2021
 >i have login to git hub and  pull and add,commit,push my report. 
+>We tested the system front end and backend for data validations .
+>We mananged to fix some Errors of not returning APIs message.
 
 
+FROM DATE 10/05/2021 – 14/05/2021
+>i started a new online angular course to improve my frontend development skills.
+>The team did present the whole APIS for the icep system.
+
+FROM DATE 17/05/2021 – 21/05/2021
+>Mr nyambeni teached me more about differency between github and gitlab  .
+>We learned more about unit testing using jest.
+>We improved our system design .
+>And prearing for final presantation.
+
+
+FROM DATE 24/05/2021 – 28/05/2021
 
