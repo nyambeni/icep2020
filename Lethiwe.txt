@@ -1,7 +1,7 @@
 NKOSI LETHIWE
 
 9 December
-We were grouped and given a task to create a system to present on Monday, me and my team members, I decided to create an online shopping cart system for clothes.
+We were grouped and given a task to create a system to present on Monday, me and my team members, we decided to create an online shopping cart system for clothes.
 10 December
 The BAs did their work and as developers, we did research on the new technologies that were introduced to us.
 11 December 
