@@ -1,45 +1,33 @@
 Netshiozwi Loy
 
-Weekly Report
-
+Report
 What I did before closing for the holidays:
 The first week of ICEP from the 7th of December 2020
-
 •	I met our facilitators and was introduced to ICEP and what is happening in ICEP. 
-•	I met speakers (Ms Zanele and Mr Percy) who gave us their experience in ICEP and their current experience at the industry for both analysts and developers and,
-	we also met Mr Simon and Mr Mash. 
+•	I met speakers (Ms Zanele and Mr Percy) who gave us their experience in ICEP and their current experience at the industry for both analysts and developers and, we also met Mr Simon and Mr Mash. 
 •	We were introduced to the type tools we will be using in ICEP. 
 •	We placed in groups and we were told to come up with a task and we had to propose the task we were going to do to familiarise ourselves with the tools.
 
 The Second week of ICEP from the 14th of December 2020
-
-In the group everyone in had to choose what they were going to do, and I chose to be a front end developer and I was using Angular to create and style the application 
-we were doing, we presented the application and for the rest of the week we were fixing errors and trying to connect the front end and the back end and the was progress.
+In the group everyone in had to choose what they were going to do, and I chose to be a front-end developer and I was using Angular to create and style the application we were doing, we presented the application and for the rest of the week we were fixing errors and trying to connect the front end and the back end and the was progress.
 
 What I did during the holidays:
-
-I made changes on the application we were doing as a group. And personally I was designing posters, music cover art and a logo and 
-currently I am trying to better my Angular programming skills by creating an online portfolio of my work.
+I made changes on the application we were doing as a group. And personally, I was designing and currently I am trying to better my Angular programming skills by creating an online portfolio of my work.
 
 Week from 11 January to 15 January 2021 
 11 January 2021
 •	My group and I held a meeting on zoom discussing our way forward with the task and determining what is left to be done.
-
 12 January 2021
 •	I went through the task and the same day I did some research on front-end development to improve my front-end skills.
-
 13 January 2021
 •	As a group we held our daily stand-up meeting in the morning, everyone in the group were assigned tasks to do according to what was left to be done.
 •	My task was to work on the adding to cart and the checkout page since we were doing a shopping-cart application and we were given time until Friday to finish.
 •	So, for that day I was working on the increments of values when clicking on an item.
-
 14 January 2021
 •	As a group we held our daily stand-up meeting in the morning, the scrum master was checking how far everyone is with their tasks.
 •	On that day I was working on the checkout page.
-
 15 January 2021
-•	I will be proceeding with the checkout page, after our daily stand-up.
-
+•	I will be proceeding with the checkout page.
 
 Week from 18 January to 22 January 2021 
 
@@ -162,7 +150,6 @@ Week from 1 March to 5 March 2021
 5 March 2021
 •	Made changes on with the view order for the admin and added the total amount for each customer.
 
-
 Week from 8 March to 10 March 2021 
 8 March 2021
 •	As front-end developers we connected the API’s.
@@ -182,12 +169,10 @@ Week from 8 March to 10 March 2021
 12 March 2021
 •	We gave a progress report.
 •	Created the login page for the admin.	
-
 Week from 15 March to 19 March 2021 
 15 March 2021
 •	Connected the API for the admin to view the items.
-•	We were given a problem statement and we presented some solutions, it didn’t go that good for me.
-
+•	We were given a problem statement and we presented some solutions.
 16 March 2021
 •	Connected the API for all the items to be viewed in the shop by the customer, and view by category.
 •	Connected the API for the customer to view his/her order.
@@ -206,7 +191,6 @@ Week from 15 March to 19 March 2021
 
 19 March 2021
 •	Debugging the system.
-
 
 Week from 22 March to 27 March 2021 
 22 March 2021
@@ -288,10 +272,34 @@ Week from 3 May to 7 May 2021
 •	Worked on how the system will appear when viewed by a phone.
 
 5 May 2021
-•	Worked on the functionality of the system to make sure the quantity of the items are added or subtracted well when the customer buys more then one box for a specific item.
-•	Started with the report of what I did on the system on the front end part.
+•	Worked on the functionality of the system to make sure the quantity of the items is added or subtracted well when the customer buys more than one box for a specific item.
+•	Started with the report of what I did on the system on the front-end part.
 •	Took screenshots of the system to add in the report.
 6 May 2021
 •	Proceeded with the report.
 7 May 2021
 •	Finalised the report.
+•	Connected the updated API for the admin login page.
+
+Week from 10 May to 14 May 2021 
+10 May 2021
+•	Connected the updated API for adding an item to the cart.
+•	Connected API to delete from cart when the customer chooses to remove an item from his/her list of items, when the customer chooses to cancel order, and when the customer makes a purchase.
+•	Connected API to view the items in cart which is viewed inside checkout.
+
+11	May 2021
+•	As the front-end developers, we connected the API to view the report based on the specific month the admin wishes to view.
+•	We worked on how the report will be displayed.
+•	Connected the API to update the quantity of a specific item when the customer makes a purchase.
+
+12 May 2021
+•	Design the report page.
+•	Created and added a video for the Page Not Found page.
+•	Added the number to show how many items are in the customer’s wish list.
+13 May 2021
+•	Added a next and previous button on the checkout page.
+•	Prepared the system for Friday’s presentation.
+
+14 May 2021
+•	Presented the system.
+
