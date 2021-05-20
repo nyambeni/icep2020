@@ -107,6 +107,7 @@ and add to wishlist api
 12 april - 23 april 2021
 
 - started having problems with the image upload API .
+-Retested all customer API’S to check if the are no error’s using postman
 -continued with the aws course.
 -we managed to fix the image upload api for admin
 - 15 april we had a meeting on IP Awareness which was held on zoom
@@ -119,7 +120,7 @@ and add to wishlist api
 
 -we went to recess
 
-03 may - 14 may 2021
+04 may - 21 may 2021
 -admin login api was giving us problem
 -added quantity update api
 -added cart api
@@ -127,6 +128,7 @@ and add to wishlist api
 -managed to fix the login api
 -started with a report
 -14 may we had a presentation for our system
+-Retested all admin API’S to check if the are no error’s using postman
 
 
 
